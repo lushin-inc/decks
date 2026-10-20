@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lushin Training Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1f2937;--soft:#6b7280;--line:#e5e7eb;--head:#18478D;--link:#0070B9;--bg:#ffffff;--card:#f7f8fa}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Poppins,system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:24px 16px 80px}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+nav{display:flex;gap:18px;font-size:14px;margin-bottom:18px}
+h1{font-size:22px;font-weight:500;color:var(--head);margin:0 0 16px}
+h2{font-size:20px;font-weight:600;color:var(--head);margin:28px 0 10px}
+h3{font-size:16px;font-weight:600;color:var(--soft);margin:20px 0 6px}
+.eyebrow{font-size:13px;color:var(--soft);margin-bottom:2px}
+input[type=search],input[type=password]{width:100%;font:inherit;padding:16px 18px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 4px}
+.chip{font:inherit;font-size:14px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:#fff;cursor:pointer}
+.chip.on{background:var(--head);color:#fff;border-color:var(--head)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:24px}
+.tile{display:flex;align-items:center;justify-content:center;text-align:center;aspect-ratio:1/1;border-radius:28px;color:#fff;
+  font-weight:700;font-size:clamp(22px,4.6vw,40px);line-height:1.15;padding:16px;box-shadow:0 14px 34px var(--glow)}
+.tile:hover{text-decoration:none;filter:brightness(1.06)}
+.row{display:block;padding:16px 18px;border-radius:12px;background:var(--card);margin:8px 0;color:var(--ink)}
+.row:hover{text-decoration:none;background:#eef2f7}
+.row .t{font-weight:500;color:var(--head)}
+.row .m{font-size:13px;color:var(--soft)}
+.row .p{font-size:14px;margin-top:4px}
+ul{padding-left:20px;margin:6px 0}
+li{margin:4px 0}
+.links li{list-style:none;margin-left:-20px;padding:6px 0}
+.links .lab{display:inline-block;width:150px;color:var(--soft);font-size:14px}
+.path{font-size:13px;word-break:break-word;color:var(--soft);margin-top:4px}
+button.copy{font:inherit;font-size:13px;padding:4px 12px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--link);cursor:pointer}
+details{background:var(--card);border-radius:12px;padding:12px 16px;margin:12px 0}
+summary{cursor:pointer;font-weight:500;color:var(--head)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin-top:8px}
+td{padding:6px 8px;border-top:1px solid var(--line);vertical-align:top}
+td:first-child{width:36px;color:var(--soft)}
+td:nth-child(2){width:96px;color:var(--soft)}
+.empty{color:var(--soft);padding:16px 0}
+.gate{max-width:420px;margin:18vh auto 0}
+.gate button{width:100%;font:inherit;font-weight:600;margin-top:12px;padding:16px;border:0;border-radius:12px;background:var(--head);color:#fff;cursor:pointer}
+.gate .err{color:#b91c1c;font-size:14px;margin-top:10px;min-height:20px}
+</style>
+</head>
+<body>
+<main id="app"></main>
+<script>
+// Data lives in data/index.json and data/slides.json. Rebuild those files to update the page.
+// Home buttons: edit SECTIONS to change names, colors, or which categories sit under each button.
+const SECTIONS = [
+  {key:"sales", name:"Sales", lines:["Sales"], cats:["Mastery","Sprint (Sales)","Sales (Private)","Negotiations"], from:"#0087FC", to:"#0162CC"},
+  {key:"leadership", name:"Leadership", lines:["Leadership"], cats:["Leadership","Sprint (Leadership)","Leadership (Private)"], from:"#E52644", to:"#A50D2E"},
+  {key:"essentials", name:"Essentials, Bootcamp & Special Sessions", lines:["Essentials","Bootcamp","Special Sessions"], cats:["Essentials","Bootcamp","Special Sessions"], from:"#02CF59", to:"#015F2D"},
+  {key:"sort", name:"Sort", lines:["Sort"], cats:["Unknown"], from:"#838A95", to:"#333740"}];
+// Password: SHA-256 of the password. To change it, replace this with the hash of the new password.
+const PASS_HASH = "36a798e3f39239ccdec697ee348d2ce0a7b8d2d9087940496e2ca5d0853399f2";
+const KEY = "ltl_ok";
+const LINKS = [["beautiful_ai","Beautiful.ai"],["google_slides","Google Slides"],["sharepoint_folder","SharePoint folder"],
+  ["sharepoint_deck","SharePoint deck"],["leader_guide","Leader guide"],["drive_folder","Drive folder"]];
+let D = null, SL = null, ST = {q:"", sq:"", type:""};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const sectionOf = cat => SECTIONS.find(x => x.cats.includes(cat));
+
+async function sha(t){ const b = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(t)); return [...new Uint8Array(b)].map(x => x.toString(16).padStart(2,"0")).join(""); }
+function unlocked(){ try { return localStorage.getItem(KEY) === PASS_HASH; } catch(e){ return false; } }
+function gate(){
+  $("#app").innerHTML = `<div class="gate"><h1>Lushin Training Library</h1>
+    <form id="gf"><input type="password" id="pw" placeholder="Password" autocomplete="current-password" autofocus>
+    <button type="submit">Enter</button><div class="err" id="err"></div></form></div>`;
+  $("#gf").onsubmit = async e => {
+    e.preventDefault();
+    if (await sha($("#pw").value) === PASS_HASH){ try { localStorage.setItem(KEY, PASS_HASH); } catch(e){} load(); }
+    else { $("#err").textContent = "That password didn't work."; $("#pw").select(); }
+  };
+}
+
+async function load(){
+  D = await (await fetch("data/index.json")).json();
+  D.byId = Object.fromEntries(D.sessions.map(s => [s.id, s]));
+  route(); window.addEventListener("hashchange", route);
+}
+async function slides(){ if(!SL){ SL = await (await fetch("data/slides.json")).json(); } return SL; }
+
+function nav(){ return `<nav><a href="#">Home</a><a href="#sprint">Sprint programs</a></nav>`; }
+function row(s){
+  return `<a class="row" href="#${esc(s.id)}"><div class="t">${esc(s.title)}</div>
+    <div class="m">${esc(s.id)} &middot; ${esc(s.type || "No type")}</div>
+    ${s.key_problem ? `<div class="p">${esc(s.key_problem)}</div>` : ""}</a>`;
+}
+function typeChips(){
+  return `<div class="filters">${["","Behavior","Attitude","Technique"].map(t =>
+    `<button class="chip ${ST.type===t?"on":""}" data-type="${t}">${t||"All types"}</button>`).join("")}</div>`;
+}
+function bindChips(redraw){ document.querySelectorAll(".chip").forEach(b => b.onclick = () => { ST.type = b.dataset.type; redraw(); }); }
+function score(s, terms, sl){
+  const f = [[s.title,5],[s.key_problem,3],[s.scenario,2],[s.light_bulb,1.5],[(s.key_rules||[]).join(" "),1]];
+  let sc = 0;
+  for (const t of terms) for (const [txt,w] of f) if ((txt||"").toLowerCase().includes(t)) sc += w;
+  if (sl){ const deck = (sl.decks[s.id]||[]).map(r => r[2]).join(" ").toLowerCase();
+    for (const t of terms) if (deck.split(t).length - 1 >= 2) sc += 0.5; }
+  return sc;
+}
+
+function home(){
+  $("#app").innerHTML = `${nav()}<h1>Lushin Training Library</h1>
+    <input type="search" id="q" placeholder="Search by title or need" value="${esc(ST.q)}">
+    <div id="res"></div>
+    <div class="grid" id="tiles">${SECTIONS.map(x =>
+      `<a class="tile" style="background:linear-gradient(160deg,${x.from},${x.to});--glow:${x.from}40" href="#s-${x.key}">${x.lines.map(esc).join("<br>")}</a>`).join("")}</div>`;
+  const q = $("#q"); q.oninput = () => { ST.q = q.value; search(); }; if (ST.q) search();
+}
+async function search(){
+  const q = ST.q.trim().toLowerCase(), res = $("#res"), tiles = $("#tiles");
+  if (!q){ res.innerHTML = ""; tiles.style.display = ""; return; }
+  tiles.style.display = "none";
+  const terms = q.split(/\s+/).filter(Boolean), sl = await slides();
+  const hits = D.sessions.map(s => [score(s, terms, sl), s]).filter(x => x[0] > 0 && (!ST.type || x[1].type===ST.type)).sort((a,b) => b[0]-a[0]);
+  res.innerHTML = typeChips() + (hits.length ? hits.slice(0,60).map(x => row(x[1])).join("") : `<div class="empty">No sessions match.</div>`);
+  bindChips(search);
+}
+
+function section(x){
+  $("#app").innerHTML = `${nav()}<h1 style="color:${x.to}">${esc(x.name)}</h1>
+    <input type="search" id="sq" placeholder="Search ${esc(x.name)}" value="${esc(ST.sq)}">${typeChips()}<div id="list"></div>`;
+  const draw = async () => {
+    const terms = ST.sq.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const sl = terms.length ? await slides() : null;
+    let html = "";
+    for (const c of x.cats){
+      let list = D.sessions.filter(s => s.category===c && (!ST.type || s.type===ST.type));
+      if (terms.length) list = list.map(s => [score(s, terms, sl), s]).filter(y => y[0] > 0).sort((a,b) => b[0]-a[0]).map(y => y[1]);
+      if (!list.length) continue;
+      if (x.cats.length > 1) html += `<h2>${esc(c === "Unknown" ? "To sort" : c)}</h2>`;
+      let prog = null;
+      for (const s of list){
+        if (!terms.length && s.program && c.startsWith("Sprint") && s.program !== prog){ prog = s.program; html += `<h3>${esc(prog)}</h3>`; }
+        html += row(s);
+      }
+    }
+    $("#list").innerHTML = html || `<div class="empty">No sessions match.</div>`;
+  };
+  const sq = $("#sq"); sq.oninput = () => { ST.sq = sq.value; draw(); };
+  bindChips(() => section(x)); draw();
+}
+
+async function session(s){
+  const L = s.links || {};
+  const linkRows = LINKS.filter(([k]) => L[k]).map(([k,lab]) =>
+    `<li><span class="lab">${lab}</span><a href="${esc(L[k])}" target="_blank" rel="noopener">Open</a></li>`).join("");
+  const mac = L.mac_deck ? `<li><span class="lab">On your Mac</span><button class="copy" data-copy="${esc(L.mac_deck)}">Copy path</button>
+    <div class="path">${esc(L.mac_deck)}</div></li>` : "";
+  const vers = (L.other_versions||[]).map(v => `<li><span class="lab">Other version</span>${v.bai?`<a href="${esc(v.bai)}" target="_blank" rel="noopener">Beautiful.ai</a>`:""}${v.dd?` &nbsp; <a href="${esc(v.dd)}" target="_blank" rel="noopener">Google Slides</a>`:""}</li>`).join("");
+  const sec = sectionOf(s.category);
+  const facts = [s.category, s.program, s.type, s.created_by ? "Created by " + s.created_by : "", s.slide_count ? s.slide_count + " slides" : ""].filter(Boolean);
+  let html = `${nav()}<div class="eyebrow">${sec ? `<a href="#s-${sec.key}">${esc(sec.name)}</a> &middot; ` : ""}${esc(s.id)}</div><h1>${esc(s.title)}</h1>
+    <ul>${facts.map(f => `<li>${esc(f)}</li>`).join("")}</ul>
+    <h2>Links</h2><ul class="links">${linkRows}${mac}${vers}</ul>`;
+  for (const [lab,k] of [["Key problem","key_problem"],["Light bulb","light_bulb"],["Scenario","scenario"]])
+    if (s[k]) html += `<h2>${lab}</h2><p>${esc(s[k])}</p>`;
+  if ((s.key_rules||[]).length) html += `<h2>Key rules</h2><ul>${s.key_rules.map(r => `<li>${esc(r)}</li>`).join("")}</ul>`;
+  html += `<details id="sl"><summary>Slides</summary><div class="empty">Loading…</div></details>`;
+  $("#app").innerHTML = html;
+  document.querySelectorAll("button.copy").forEach(b => b.onclick = () => { navigator.clipboard.writeText(b.dataset.copy); b.textContent = "Copied"; });
+  const sl = await slides(), rows = sl.decks[s.id] || [];
+  $("#sl").innerHTML = `<summary>Slides</summary>` + (rows.length
+    ? `<table>${rows.map(r => `<tr><td>${r[0]}</td><td>${esc(sl.types[r[1]]||"")}</td><td>${esc(r[2])}</td></tr>`).join("")}</table>`
+    : `<div class="empty">No slide rows on file for this deck.</div>`);
+}
+
+function sprint(){
+  const rows = D.sprint_programs.map(p => {
+    const L = [["Program folder","SharePoint Program Folder URL"],["Overview","Program Overview / Goal URL"],["Role plays","Role Plays Folder URL"],
+      ["Reinforcement","Reinforcement Resources URL"],["QR codes","QR Code Folder URL"]].filter(([,k]) => p[k]);
+    return `<div class="row"><div class="t">${esc(p["Quarter"])} &middot; ${esc(p["Track"])}: ${esc(p["Program"])}</div>
+      <ul class="links">${L.map(([lab,k]) => `<li><span class="lab">${lab}</span><a href="${esc(p[k])}" target="_blank" rel="noopener">Open</a></li>`).join("")}</ul></div>`;
+  }).join("");
+  $("#app").innerHTML = `${nav()}<h1>Sprint programs</h1>${rows}`;
+}
+
+function route(){
+  const h = decodeURIComponent(location.hash.slice(1));
+  window.scrollTo(0,0);
+  if (!h) return home();
+  if (h === "sprint") return sprint();
+  if (h.startsWith("s-")) { const x = SECTIONS.find(x => x.key === h.slice(2)); if (x) { ST.sq = ""; return section(x); } }
+  if (D.byId[h]) return session(D.byId[h]);
+  home();
+}
+unlocked() ? load() : gate();
+</script>
+</body>
+</html>
