@@ -26,6 +26,18 @@ input[type=search],input[type=password]{width:100%;font:inherit;padding:16px 18p
 .tile{display:flex;align-items:center;justify-content:center;text-align:center;aspect-ratio:1/1;border-radius:28px;color:#fff;
   font-weight:700;font-size:clamp(22px,4.6vw,40px);line-height:1.15;padding:16px;box-shadow:0 14px 34px var(--glow)}
 .tile:hover{text-decoration:none;filter:brightness(1.06)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px;margin:10px 0}
+.card{display:block;border-radius:14px;background:var(--card);overflow:hidden;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.card:hover{text-decoration:none;box-shadow:0 8px 22px rgba(0,0,0,.14)}
+.card .th{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#e5e7eb}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;aspect-ratio:16/9;color:#fff;font-weight:600;font-size:15px;line-height:1.3;padding:14px}
+.card .b{padding:12px 14px 14px}
+.card .t{font-weight:500;color:var(--head);line-height:1.3}
+.card .m{font-size:12px;color:var(--soft);margin-top:2px}
+.card ul{margin:8px 0 0;padding-left:18px;font-size:13px;line-height:1.45}
+.card li{margin:2px 0}
+.hero{display:block;width:100%;max-width:640px;border-radius:14px;margin:4px 0 16px;box-shadow:0 6px 20px rgba(0,0,0,.12)}
+.hero.ph{font-size:22px}
 .row{display:block;padding:16px 18px;border-radius:12px;background:var(--card);margin:8px 0;color:var(--ink)}
 .row:hover{text-decoration:none;background:#eef2f7}
 .row .t{font-weight:500;color:var(--head)}
@@ -90,11 +102,19 @@ async function load(){
 async function slides(){ if(!SL){ SL = await (await fetch("data/slides.json")).json(); } return SL; }
 
 function nav(){ return `<nav><a href="#">Home</a><a href="#sprint">Sprint programs</a></nav>`; }
-function row(s){
-  return `<a class="row" href="#${esc(s.id)}"><div class="t">${esc(s.title)}</div>
-    <div class="m">${esc(s.id)} &middot; ${esc(s.type || "No type")}</div>
-    ${s.key_problem ? `<div class="p">${esc(s.key_problem)}</div>` : ""}</a>`;
+const fmt = t => esc(t).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+function thumb(s, cls){
+  if (s.thumbnail) return `<img class="${cls}" src="${esc(s.thumbnail)}" alt="" loading="lazy">`;
+  const x = sectionOf(s.category) || SECTIONS[3];
+  return `<div class="${cls} ph" style="background:linear-gradient(160deg,${x.from},${x.to})">${esc(s.title)}</div>`;
 }
+function card(s){
+  const b = (s.card_bullets || []).slice(0,3);
+  return `<a class="card" href="#${esc(s.id)}">${thumb(s,"th")}<div class="b"><div class="t">${esc(s.title)}</div>
+    <div class="m">${esc(s.id)} &middot; ${esc(s.type || "No type")}</div>
+    ${b.length ? `<ul>${b.map(x => `<li>${fmt(x)}</li>`).join("")}</ul>` : ""}</div></a>`;
+}
+const cards = list => `<div class="cards">${list.map(card).join("")}</div>`;
 function typeChips(){
   return `<div class="filters">${["","Behavior","Attitude","Technique"].map(t =>
     `<button class="chip ${ST.type===t?"on":""}" data-type="${t}">${t||"All types"}</button>`).join("")}</div>`;
@@ -123,7 +143,7 @@ async function search(){
   tiles.style.display = "none";
   const terms = q.split(/\s+/).filter(Boolean), sl = await slides();
   const hits = D.sessions.map(s => [score(s, terms, sl), s]).filter(x => x[0] > 0 && (!ST.type || x[1].type===ST.type)).sort((a,b) => b[0]-a[0]);
-  res.innerHTML = typeChips() + (hits.length ? hits.slice(0,60).map(x => row(x[1])).join("") : `<div class="empty">No sessions match.</div>`);
+  res.innerHTML = typeChips() + (hits.length ? cards(hits.slice(0,60).map(x => x[1])) : `<div class="empty">No sessions match.</div>`);
   bindChips(search);
 }
 
@@ -139,11 +159,10 @@ function section(x){
       if (terms.length) list = list.map(s => [score(s, terms, sl), s]).filter(y => y[0] > 0).sort((a,b) => b[0]-a[0]).map(y => y[1]);
       if (!list.length) continue;
       if (x.cats.length > 1) html += `<h2>${esc(c === "Unknown" ? "To sort" : c)}</h2>`;
-      let prog = null;
-      for (const s of list){
-        if (!terms.length && s.program && c.startsWith("Sprint") && s.program !== prog){ prog = s.program; html += `<h3>${esc(prog)}</h3>`; }
-        html += row(s);
-      }
+      if (!terms.length && c.startsWith("Sprint")){
+        const progs = [...new Set(list.map(s => s.program))];
+        for (const p of progs) html += `<h3>${esc(p)}</h3>` + cards(list.filter(s => s.program === p));
+      } else html += cards(list);
     }
     $("#list").innerHTML = html || `<div class="empty">No sessions match.</div>`;
   };
@@ -161,10 +180,14 @@ async function session(s){
   const sec = sectionOf(s.category);
   const facts = [s.category, s.program, s.type, s.created_by ? "Created by " + s.created_by : "", s.slide_count ? s.slide_count + " slides" : ""].filter(Boolean);
   let html = `${nav()}<div class="eyebrow">${sec ? `<a href="#s-${sec.key}">${esc(sec.name)}</a> &middot; ` : ""}${esc(s.id)}</div><h1>${esc(s.title)}</h1>
+    ${thumb(s,"hero")}
     <ul>${facts.map(f => `<li>${esc(f)}</li>`).join("")}</ul>
     <h2>Links</h2><ul class="links">${linkRows}${mac}${vers}</ul>`;
-  for (const [lab,k] of [["Key problem","key_problem"],["Light bulb","light_bulb"],["Scenario","scenario"]])
-    if (s[k]) html += `<h2>${lab}</h2><p>${esc(s[k])}</p>`;
+  for (const [lab,k] of [["Key problem","key_problem"],["Light bulb","light_bulb"],["Scenario","scenario"]]){
+    const bl = s[k + "_bullets"] || [];
+    if (bl.length) html += `<h2>${lab}</h2><ul>${bl.map(x => `<li>${fmt(x)}</li>`).join("")}</ul>`;
+    else if (s[k]) html += `<h2>${lab}</h2><p>${esc(s[k])}</p>`;
+  }
   if ((s.key_rules||[]).length) html += `<h2>Key rules</h2><ul>${s.key_rules.map(r => `<li>${esc(r)}</li>`).join("")}</ul>`;
   html += `<details id="sl"><summary>Slides</summary><div class="empty">Loading…</div></details>`;
   $("#app").innerHTML = html;
