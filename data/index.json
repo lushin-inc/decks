@@ -1,7 +1,7 @@
 {
  "meta": {
   "name": "Lushin Training Library Index",
-  "updated": "2026-10-12",
+  "updated": "2026-10-31",
   "sessions": 472,
   "library_page": "https://claude.ai/artifact/P4MBc2rrKHQ5DCERNXb1nX",
   "slide_outlines": "slides.js in the same artifact: window.SLIDES = {types:[...], decks:{ID:[[slide#, typeIndex, text],...]}}",
@@ -134,7 +134,7 @@
     "Prospect quietly ran **their own playbook** the whole time",
     "The buyer's playbook went **unnoticed** throughout"
    ],
-   "thumbnail": "thumbs/ES-02.jpg"
+   "thumbnail": "thumbs v2/ES-02.jpg"
   },
   {
    "id": "ES-03",
@@ -192,7 +192,7 @@
     "No clue why some prospects **click instantly**",
     "Others **go cold** the moment the talking starts"
    ],
-   "thumbnail": "thumbs/ES-03.jpg"
+   "thumbnail": "thumbs v2/ES-03.jpg"
   },
   {
    "id": "ES-04",
@@ -241,7 +241,7 @@
     "**Referral asks** keep getting avoided",
     "Asks feel **pushy or greedy**"
    ],
-   "thumbnail": "thumbs/ES-04.jpg"
+   "thumbnail": "thumbs v2/ES-04.jpg"
   },
   {
    "id": "ES-05",
@@ -289,7 +289,7 @@
     "Meetings keep ending in \"let me **think about it**\"",
     "**Clear expectations** for a decision were never set"
    ],
-   "thumbnail": "thumbs/ES-05.jpg"
+   "thumbnail": "thumbs v2/ES-05.jpg"
   },
   {
    "id": "ES-06",
@@ -352,7 +352,7 @@
     "The real, **personal pain** never surfaces",
     "That pain would have **closed the deal**"
    ],
-   "thumbnail": "thumbs/ES-06.jpg"
+   "thumbnail": "thumbs v2/ES-06.jpg"
   },
   {
    "id": "ES-07",
@@ -409,7 +409,7 @@
     "Every one answered **on instinct**",
     "**Control** of the call handed over"
    ],
-   "thumbnail": "thumbs/ES-07.jpg"
+   "thumbnail": "thumbs v2/ES-07.jpg"
   },
   {
    "id": "ES-08",
@@ -456,7 +456,7 @@
     "**Flinching** or going quiet when money comes up",
     "Prospects end up controlling the **budget conversation**"
    ],
-   "thumbnail": "thumbs/ES-08.jpg"
+   "thumbnail": "thumbs v2/ES-08.jpg"
   },
   {
    "id": "ES-09",
@@ -554,7 +554,7 @@
     "Or \"**circumstances change**\"",
     "**Qualification**, not the close, was the missing piece"
    ],
-   "thumbnail": "thumbs/ES-10.jpg"
+   "thumbnail": "thumbs v2/ES-10.jpg"
   },
   {
    "id": "ES-11",
@@ -666,7 +666,7 @@
     "Avoiding the **risky moves** that would get there",
     "The goal underneath was **never clear**"
    ],
-   "thumbnail": "thumbs/ES-12.jpg"
+   "thumbnail": "thumbs v2/ES-12.jpg"
   },
   {
    "id": "ES-13",
@@ -714,7 +714,7 @@
     "Prospects then **go quiet**",
     "It's the **buyer's system** running, not your own"
    ],
-   "thumbnail": "thumbs/ES-13.jpg"
+   "thumbnail": "thumbs v2/ES-13.jpg"
   },
   {
    "id": "ES-14",
@@ -760,7 +760,7 @@
     "Moment may call for **training a skill** or coaching behavior",
     "Or **mentoring attitude**, or supervising results"
    ],
-   "thumbnail": "thumbs/ES-14.jpg"
+   "thumbnail": "thumbs v2/ES-14.jpg"
   },
   {
    "id": "ES-15",
@@ -819,7 +819,7 @@
     "Skipping real **coaching conversations**",
     "No disciplined **weekly one-on-one** meetings"
    ],
-   "thumbnail": "thumbs/ES-15.jpg"
+   "thumbnail": "thumbs v2/ES-15.jpg"
   },
   {
    "id": "ES-16",
@@ -865,7 +865,7 @@
     "The miss **slides** anyway",
     "Confronting feels like **micromanaging** or risking the relationship"
    ],
-   "thumbnail": "thumbs/ES-16.jpg"
+   "thumbnail": "thumbs v2/ES-16.jpg"
   },
   {
    "id": "ES-17",
@@ -921,7 +921,7 @@
     "Chasing what the **top performers** do differently",
     "No **documented process** for anyone to follow"
    ],
-   "thumbnail": "thumbs/ES-17.jpg"
+   "thumbnail": "thumbs v2/ES-17.jpg"
   },
   {
    "id": "ES-18",
@@ -969,7 +969,7 @@
     "Only question asked: \"**is this closing?**\"",
     "Never inspecting **pain, decision process**, next steps along the way"
    ],
-   "thumbnail": "thumbs/ES-18.jpg"
+   "thumbnail": "thumbs v2/ES-18.jpg"
   },
   {
    "id": "ES-19",
@@ -1017,7 +1017,7 @@
     "Results tracked **after the fact**",
     "Not the **behaviors** that predict them"
    ],
-   "thumbnail": "thumbs/ES-19.jpg"
+   "thumbnail": "thumbs v2/ES-19.jpg"
   },
   {
    "id": "ES-22",
@@ -1074,7 +1074,7 @@
     "Calls open with **weather** and **small talk**",
     "Sounds like **every other** sales call that prospect got this month"
    ],
-   "thumbnail": "thumbs/ES-22.jpg"
+   "thumbnail": "thumbs v2/ES-22.jpg"
   },
   {
    "id": "ES-23",
@@ -1135,7 +1135,7 @@
     "\"**No budget**\" or \"I need to check with others\" surfaces late",
     "Real money and **decision-making authority** never pinned down up front"
    ],
-   "thumbnail": "thumbs/ES-23.jpg"
+   "thumbnail": "thumbs v2/ES-23.jpg"
   },
   {
    "id": "ES-24",
@@ -1192,7 +1192,7 @@
     "Seemingly **done deal** unravels",
     "Cause: **post-sale remorse** or a hidden roadblock"
    ],
-   "thumbnail": "thumbs/ES-24.jpg"
+   "thumbnail": "thumbs v2/ES-24.jpg"
   },
   {
    "id": "ES-25",
@@ -1240,7 +1240,7 @@
     "Or **endless delays**",
     "**Who decides**, and how, never mapped out"
    ],
-   "thumbnail": "thumbs/ES-25.jpg"
+   "thumbnail": "thumbs v2/ES-25.jpg"
   },
   {
    "id": "ES-26",
@@ -1285,7 +1285,7 @@
     "**Goal-setting homework** keeps getting skipped",
     "Next quarter feels just as **reactive** as the last"
    ],
-   "thumbnail": "thumbs/ES-26.jpg"
+   "thumbnail": "thumbs v2/ES-26.jpg"
   },
   {
    "id": "ES-27",
@@ -1339,7 +1339,7 @@
     "No **written goal** pulling forward",
     "Nothing feels like **building toward** your own"
    ],
-   "thumbnail": "thumbs/ES-27.jpg"
+   "thumbnail": "thumbs v2/ES-27.jpg"
   },
   {
    "id": "ES-28",
@@ -1384,7 +1384,7 @@
     "Still **no roadmap** to reach them",
     "Belief, **daily behavior**, technique not connected"
    ],
-   "thumbnail": "thumbs/ES-28.jpg"
+   "thumbnail": "thumbs v2/ES-28.jpg"
   },
   {
    "id": "ES-29",
@@ -1440,7 +1440,7 @@
     "Managing **last month's numbers**",
     "Ignoring the **daily behavior** and self-image producing them"
    ],
-   "thumbnail": "thumbs/ES-29.jpg"
+   "thumbnail": "thumbs v2/ES-29.jpg"
   },
   {
    "id": "ES-30",
@@ -1487,7 +1487,7 @@
     "Prospects keep **lowballing or dodging** budget questions",
     "No **reliable way** to break through"
    ],
-   "thumbnail": "thumbs/ES-30.jpg"
+   "thumbnail": "thumbs v2/ES-30.jpg"
   },
   {
    "id": "ES-31",
@@ -1548,7 +1548,7 @@
     "Prospect states a need; pitch jumps **straight to product**",
     "Later, **no urgency** to close"
    ],
-   "thumbnail": "thumbs/ES-31.jpg"
+   "thumbnail": "thumbs v2/ES-31.jpg"
   },
   {
    "id": "ES-32",
@@ -1604,7 +1604,7 @@
     "No real **prospecting cookbook**",
     "Never **asking for referrals**, though they close far better"
    ],
-   "thumbnail": "thumbs/ES-32.jpg"
+   "thumbnail": "thumbs v2/ES-32.jpg"
   },
   {
    "id": "ES-33",
@@ -1666,7 +1666,7 @@
     "Gets **answered literally**",
     "The **real worry** driving it stays hidden"
    ],
-   "thumbnail": "thumbs/ES-33.jpg"
+   "thumbnail": "thumbs v2/ES-33.jpg"
   },
   {
    "id": "ES-34",
@@ -1721,7 +1721,7 @@
     "Calls keep ending in mushy \"I'll **think it over**\"",
     "No **up-front agreement** on what yes or no looks like"
    ],
-   "thumbnail": "thumbs/ES-34.jpg"
+   "thumbnail": "thumbs v2/ES-34.jpg"
   },
   {
    "id": "ES-35",
@@ -1771,7 +1771,7 @@
     "Buyer set the **pace and agenda**",
     "No **system** keeping control"
    ],
-   "thumbnail": "thumbs/ES-35.jpg"
+   "thumbnail": "thumbs v2/ES-35.jpg"
   },
   {
    "id": "M-001",
@@ -1819,7 +1819,7 @@
     "**Wishing** for more referrals",
     "Never building **the ask** into the routine"
    ],
-   "thumbnail": "thumbs/M-001.jpg"
+   "thumbnail": "thumbs v2/M-001.jpg"
   },
   {
    "id": "M-002",
@@ -1867,7 +1867,7 @@
     "Quietly capping your **own results**",
     "Caused by **self-beliefs**, not skill gaps or market conditions"
    ],
-   "thumbnail": "thumbs/M-002.jpg"
+   "thumbnail": "thumbs v2/M-002.jpg"
   },
   {
    "id": "M-003",
@@ -1914,7 +1914,7 @@
     "Leaving events with a stack of **business cards**",
     "No **real connections** or follow-up meetings to show"
    ],
-   "thumbnail": "thumbs/M-003.jpg"
+   "thumbnail": "thumbs v2/M-003.jpg"
   },
   {
    "id": "M-004",
@@ -1966,7 +1966,7 @@
     "The deal **stalls**",
     "Real, **personal pain** underneath never uncovered"
    ],
-   "thumbnail": "thumbs/M-004.jpg"
+   "thumbnail": "thumbs v2/M-004.jpg"
   },
   {
    "id": "M-004b",
@@ -2014,7 +2014,7 @@
     "**Micromanaging** happens anyway",
     "Numbers and pipelines aren't **self-run or self-driven**"
    ],
-   "thumbnail": "thumbs/M-004b.jpg"
+   "thumbnail": "thumbs v2/M-004b.jpg"
   },
   {
    "id": "M-005",
@@ -2069,7 +2069,7 @@
     "Never getting specific about a **vision**",
     "Waiting to **feel confident** instead of building it through motion"
    ],
-   "thumbnail": "thumbs/M-005.jpg"
+   "thumbnail": "thumbs v2/M-005.jpg"
   },
   {
    "id": "M-006",
@@ -2168,7 +2168,7 @@
     "Nothing to **work with**",
     "**No pain** has surfaced"
    ],
-   "thumbnail": "thumbs/M-007.jpg"
+   "thumbnail": "thumbs v2/M-007.jpg"
   },
   {
    "id": "M-008",
@@ -2266,7 +2266,7 @@
     "**Folding** the moment the prospect pushes back",
     "Personal beliefs about **asking for money** never dealt with"
    ],
-   "thumbnail": "thumbs/M-009.jpg"
+   "thumbnail": "thumbs v2/M-009.jpg"
   },
   {
    "id": "M-009b",
@@ -2310,7 +2310,7 @@
     "Reciting the process on a **whiteboard**",
     "**Freezing** or missing the cue live on the phone"
    ],
-   "thumbnail": "thumbs/M-009b.jpg"
+   "thumbnail": "thumbs v2/M-009b.jpg"
   },
   {
    "id": "M-010",
@@ -2357,7 +2357,7 @@
     "Usually a **trust-killing behavior**: pressure, pestering, not listening",
     "The behavior **goes unnoticed**"
    ],
-   "thumbnail": "thumbs/M-010.jpg"
+   "thumbnail": "thumbs v2/M-010.jpg"
   },
   {
    "id": "M-010b",
@@ -2405,7 +2405,7 @@
     "Coming across as **forgettable** or **overly eager**",
     "Prospect sets the **tone** of the meeting"
    ],
-   "thumbnail": "thumbs/M-010b.jpg"
+   "thumbnail": "thumbs v2/M-010b.jpg"
   },
   {
    "id": "M-011",
@@ -2451,7 +2451,7 @@
     "**No explanation** for stalling",
     "Stalls come right when things **start to click**"
    ],
-   "thumbnail": "thumbs/M-011.jpg"
+   "thumbnail": "thumbs v2/M-011.jpg"
   },
   {
    "id": "M-012",
@@ -2500,7 +2500,7 @@
     "A week spent on a **detailed proposal**",
     "Prospect only used it to **negotiate** with their current vendor"
    ],
-   "thumbnail": "thumbs/M-012.jpg"
+   "thumbnail": "thumbs v2/M-012.jpg"
   },
   {
    "id": "M-012b",
@@ -2546,7 +2546,7 @@
     "Still **folding or over-accommodating** on calls",
     "Deep-down belief there's no **equal footing** with the prospect"
    ],
-   "thumbnail": "thumbs/M-012b.jpg"
+   "thumbnail": "thumbs v2/M-012b.jpg"
   },
   {
    "id": "M-013",
@@ -2604,7 +2604,7 @@
     "Pitching the **whole room**",
     "Not **each member** sitting in it"
    ],
-   "thumbnail": "thumbs/M-013.jpg"
+   "thumbnail": "thumbs v2/M-013.jpg"
   },
   {
    "id": "M-014",
@@ -2701,7 +2701,7 @@
     "\"Let me **think it over**\" keeps getting accepted",
     "Hard **personal decisions** don't get fully committed either"
    ],
-   "thumbnail": "thumbs/M-015.jpg"
+   "thumbnail": "thumbs v2/M-015.jpg"
   },
   {
    "id": "M-015b",
@@ -2747,7 +2747,7 @@
     "No plan to use **email** to get them back",
     "Only another **status-check message**"
    ],
-   "thumbnail": "thumbs/M-015b.jpg"
+   "thumbnail": "thumbs v2/M-015b.jpg"
   },
   {
    "id": "M-016",
@@ -2794,7 +2794,7 @@
     "**Numbers slipped** anyway",
     "Quietly **drifting away** from the fundamentals"
    ],
-   "thumbnail": "thumbs/M-016.jpg"
+   "thumbnail": "thumbs v2/M-016.jpg"
   },
   {
    "id": "M-017",
@@ -2844,7 +2844,7 @@
     "**Hung up on** in the first ten seconds",
     "Opener sounds like **every other** sales call"
    ],
-   "thumbnail": "thumbs/M-017.jpg"
+   "thumbnail": "thumbs v2/M-017.jpg"
   },
   {
    "id": "M-018",
@@ -2939,7 +2939,7 @@
     "**Pointing fingers** when something breaks",
     "Not **proactively catching** and owning problems early"
    ],
-   "thumbnail": "thumbs/M-019.jpg"
+   "thumbnail": "thumbs v2/M-019.jpg"
   },
   {
    "id": "M-019a",
@@ -2990,7 +2990,7 @@
     "Loaded question: \"your **price** is **too high**\"",
     "Answered **head-on** instead of reversed back"
    ],
-   "thumbnail": "thumbs/M-019a.jpg"
+   "thumbnail": "thumbs v2/M-019a.jpg"
   },
   {
    "id": "M-019b",
@@ -3085,7 +3085,7 @@
     "Or **stall on price**",
     "Surface pain never gave way to the **real, emotional problem**"
    ],
-   "thumbnail": "thumbs/M-020.jpg"
+   "thumbnail": "thumbs v2/M-020.jpg"
   },
   {
    "id": "M-020b",
@@ -3131,7 +3131,7 @@
     "Something **internal** keeps sabotaging results",
     "**Mindset** never connected to performance"
    ],
-   "thumbnail": "thumbs/M-020b.jpg"
+   "thumbnail": "thumbs v2/M-020b.jpg"
   },
   {
    "id": "M-021",
@@ -3239,7 +3239,7 @@
     "Opening was **created earlier** in the conversation",
     "That link goes **unrealized**"
    ],
-   "thumbnail": "thumbs/M-022.jpg"
+   "thumbnail": "thumbs v2/M-022.jpg"
   },
   {
    "id": "M-022b",
@@ -3340,7 +3340,7 @@
     "Wanting to hit a **bigger number**",
     "**Self-image** quietly won't allow it"
    ],
-   "thumbnail": "thumbs/M-023.jpg"
+   "thumbnail": "thumbs v2/M-023.jpg"
   },
   {
    "id": "M-024",
@@ -3383,7 +3383,7 @@
     "Meetings **run long** with no decision",
     "**Upfront contract** rushed or skipped"
    ],
-   "thumbnail": "thumbs/M-024.jpg"
+   "thumbnail": "thumbs v2/M-024.jpg"
   },
   {
    "id": "M-025",
@@ -3428,7 +3428,7 @@
     "Deal still **falls apart**",
     "**Minimum-acceptable answer** taken every time, not the ideal"
    ],
-   "thumbnail": "thumbs/M-025.jpg"
+   "thumbnail": "thumbs v2/M-025.jpg"
   },
   {
    "id": "M-026",
@@ -3478,7 +3478,7 @@
     "**Vague non-commitment** accepted as an outcome",
     "No **real decision** forced"
    ],
-   "thumbnail": "thumbs/M-026.jpg"
+   "thumbnail": "thumbs v2/M-026.jpg"
   },
   {
    "id": "M-026b",
@@ -3523,7 +3523,7 @@
     "Assuming a great account has \"**nothing left** to gain\"",
     "Not **mapping** where more revenue and referrals hide"
    ],
-   "thumbnail": "thumbs/M-026b.jpg"
+   "thumbnail": "thumbs v2/M-026b.jpg"
   },
   {
    "id": "M-027",
@@ -3577,7 +3577,7 @@
     "Answered **directly** instead of reversed",
     "What's **really being asked** stays unknown"
    ],
-   "thumbnail": "thumbs/M-027.jpg"
+   "thumbnail": "thumbs v2/M-027.jpg"
   },
   {
    "id": "M-028",
@@ -3631,7 +3631,7 @@
     "Good clients **quietly drift** away",
     "Noticed only after a **competitor** moved in"
    ],
-   "thumbnail": "thumbs/M-028.jpg"
+   "thumbnail": "thumbs v2/M-028.jpg"
   },
   {
    "id": "M-029",
@@ -3677,7 +3677,7 @@
     "**Competent and comfortable** but plateaued",
     "**Avoiding the risk** that would move things forward"
    ],
-   "thumbnail": "thumbs/M-029.jpg"
+   "thumbnail": "thumbs v2/M-029.jpg"
   },
   {
    "id": "M-030",
@@ -3731,7 +3731,7 @@
     "Getting **defensive** or over-explaining",
     "**Taking it personally** when a prospect pushes back"
    ],
-   "thumbnail": "thumbs/M-030.jpg"
+   "thumbnail": "thumbs v2/M-030.jpg"
   },
   {
    "id": "M-030b",
@@ -3776,7 +3776,7 @@
     "**Daily behavior** doesn't match",
     "No journal, no **accountability partner**, no real commitment"
    ],
-   "thumbnail": "thumbs/M-030b.jpg"
+   "thumbnail": "thumbs v2/M-030b.jpg"
   },
   {
    "id": "M-031",
@@ -3876,7 +3876,7 @@
     "And more **objection-handling scripts**",
     "Real derailer: **unmanaged emotional reaction** under pressure"
    ],
-   "thumbnail": "thumbs/M-031b.jpg"
+   "thumbnail": "thumbs v2/M-031b.jpg"
   },
   {
    "id": "M-032",
@@ -3979,7 +3979,7 @@
     "The deal **goes cold**",
     "**Pain and budget** never confirmed first"
    ],
-   "thumbnail": "thumbs/M-033.jpg"
+   "thumbnail": "thumbs v2/M-033.jpg"
   },
   {
    "id": "M-034",
@@ -4130,7 +4130,7 @@
     "No defined **ideal client**",
     "No **consistent weekly plan** to get in front of them"
    ],
-   "thumbnail": "thumbs/M-035b.jpg"
+   "thumbnail": "thumbs v2/M-035b.jpg"
   },
   {
    "id": "M-036",
@@ -4177,7 +4177,7 @@
     "Afraid of sounding like an **interrogation**",
     "The call stays **surface-level**"
    ],
-   "thumbnail": "thumbs/M-036.jpg"
+   "thumbnail": "thumbs v2/M-036.jpg"
   },
   {
    "id": "M-037",
@@ -4222,7 +4222,7 @@
     "Real leak: **procrastination** and low-value work",
     "Not **delegating** that work"
    ],
-   "thumbnail": "thumbs/M-037.jpg"
+   "thumbnail": "thumbs v2/M-037.jpg"
   },
   {
    "id": "M-038",
@@ -4320,7 +4320,7 @@
     "Buyer plays the **flinch** or \"your competition is cheaper\"",
     "Tactic goes **unrecognized** as it happens"
    ],
-   "thumbnail": "thumbs/M-039.jpg"
+   "thumbnail": "thumbs v2/M-039.jpg"
   },
   {
    "id": "M-040",
@@ -4368,7 +4368,7 @@
     "Only **one version** is known",
     "It doesn't **fit every situation**"
    ],
-   "thumbnail": "thumbs/M-040.jpg"
+   "thumbnail": "thumbs v2/M-040.jpg"
   },
   {
    "id": "M-040b",
@@ -4420,7 +4420,7 @@
     "Elaborate **multi-touch cadences** get built",
     "The **phone** still isn't getting picked up"
    ],
-   "thumbnail": "thumbs/M-040b.jpg"
+   "thumbnail": "thumbs v2/M-040b.jpg"
   },
   {
    "id": "M-041",
@@ -4467,7 +4467,7 @@
     "Not seeing how much **more is possible**",
     "**True commitment** instead of mere interest"
    ],
-   "thumbnail": "thumbs/M-041.jpg"
+   "thumbnail": "thumbs v2/M-041.jpg"
   },
   {
    "id": "M-042",
@@ -4512,7 +4512,7 @@
     "Prospect's **eyes glaze over** or they get defensive",
     "Something technical explained in **straight, literal terms**"
    ],
-   "thumbnail": "thumbs/M-042.jpg"
+   "thumbnail": "thumbs v2/M-042.jpg"
   },
   {
    "id": "M-043",
@@ -4558,7 +4558,7 @@
     "**Stopping short** of real pain",
     "Deep-down belief that pushing is **pushy selling**"
    ],
-   "thumbnail": "thumbs/M-043.jpg"
+   "thumbnail": "thumbs v2/M-043.jpg"
   },
   {
    "id": "M-044",
@@ -4608,7 +4608,7 @@
     "**Blaming the prospect** for it",
     "Really a **personal hang-up** about money"
    ],
-   "thumbnail": "thumbs/M-044.jpg"
+   "thumbnail": "thumbs v2/M-044.jpg"
   },
   {
    "id": "M-045",
@@ -4654,7 +4654,7 @@
     "**Falls flat** with the next",
     "The reason stays a **mystery**"
    ],
-   "thumbnail": "thumbs/M-045.jpg"
+   "thumbnail": "thumbs v2/M-045.jpg"
   },
   {
    "id": "M-046",
@@ -4699,7 +4699,7 @@
     "No pushing on **money** or challenging pushback",
     "**Being liked** matters more than moving the deal"
    ],
-   "thumbnail": "thumbs/M-046.jpg"
+   "thumbnail": "thumbs v2/M-046.jpg"
   },
   {
    "id": "M-047",
@@ -4837,7 +4837,7 @@
     "A **self-defeating pattern** keeps repeating",
     "No recognition of **what's driving it**"
    ],
-   "thumbnail": "thumbs/M-049.jpg"
+   "thumbnail": "thumbs v2/M-049.jpg"
   },
   {
    "id": "M-050",
@@ -4986,7 +4986,7 @@
     "Through **RFPs** and multiple stakeholders",
     "Lost the thread on **who's really driving** the decision"
    ],
-   "thumbnail": "thumbs/M-051.jpg"
+   "thumbnail": "thumbs v2/M-051.jpg"
   },
   {
    "id": "M-052",
@@ -5038,7 +5038,7 @@
     "Deal seems **basically closed** once the contract goes out",
     "Then disappears into \"**we'll get back** to you\" limbo"
    ],
-   "thumbnail": "thumbs/M-052.jpg"
+   "thumbnail": "thumbs v2/M-052.jpg"
   },
   {
    "id": "M-053",
@@ -5131,7 +5131,7 @@
     "Process learned on a **whiteboard**",
     "Never **heard used live** on a real call"
    ],
-   "thumbnail": "thumbs/M-054.jpg"
+   "thumbnail": "thumbs v2/M-054.jpg"
   },
   {
    "id": "M-054b",
@@ -5180,7 +5180,7 @@
     "Social selling treated as **posting content**",
     "Not a disciplined **conversation-generation activity**"
    ],
-   "thumbnail": "thumbs/M-054b.jpg"
+   "thumbnail": "thumbs v2/M-054b.jpg"
   },
   {
    "id": "M-055",
@@ -5281,7 +5281,7 @@
     "Deal **never advances**",
     "**Real interest** was never tested"
    ],
-   "thumbnail": "thumbs/M-056.jpg"
+   "thumbnail": "thumbs v2/M-056.jpg"
   },
   {
    "id": "M-057",
@@ -5331,7 +5331,7 @@
     "Driven by **personal awkwardness** about money",
     "Not because the prospect **can't afford** it"
    ],
-   "thumbnail": "thumbs/M-057.jpg"
+   "thumbnail": "thumbs v2/M-057.jpg"
   },
   {
    "id": "M-058",
@@ -5429,7 +5429,7 @@
     "Prospect starts **steering the call**",
     "No way to **take control back** without feeling pushy"
    ],
-   "thumbnail": "thumbs/M-059.jpg"
+   "thumbnail": "thumbs v2/M-059.jpg"
   },
   {
    "id": "M-060",
@@ -5487,7 +5487,7 @@
     "**Underperformance** continues anyway",
     "**Attitude and self-image** quietly sabotage every call"
    ],
-   "thumbnail": "thumbs/M-060.jpg"
+   "thumbnail": "thumbs v2/M-060.jpg"
   },
   {
    "id": "M-060b",
@@ -5587,7 +5587,7 @@
     "Getting deals to the **finish line**",
     "Not **closing** at the end"
    ],
-   "thumbnail": "thumbs/M-061.jpg"
+   "thumbnail": "thumbs v2/M-061.jpg"
   },
   {
    "id": "M-062",
@@ -5633,7 +5633,7 @@
     "No **repeatable system**",
     "Results feel like **luck**, not a formula"
    ],
-   "thumbnail": "thumbs/M-062.jpg"
+   "thumbnail": "thumbs v2/M-062.jpg"
   },
   {
    "id": "M-063",
@@ -5685,7 +5685,7 @@
     "Ending up **disqualified**",
     "Or giving away **free consulting**"
    ],
-   "thumbnail": "thumbs/M-063.jpg"
+   "thumbnail": "thumbs v2/M-063.jpg"
   },
   {
    "id": "M-064",
@@ -5733,7 +5733,7 @@
     "Living with **quiet regret**",
     "Everything **outside the job** neglected"
    ],
-   "thumbnail": "thumbs/M-064.jpg"
+   "thumbnail": "thumbs v2/M-064.jpg"
   },
   {
    "id": "M-065",
@@ -5778,7 +5778,7 @@
     "**Explaining the process** perfectly in a meeting",
     "**Going blank** when a real prospect stalls live"
    ],
-   "thumbnail": "thumbs/M-065.jpg"
+   "thumbnail": "thumbs v2/M-065.jpg"
   },
   {
    "id": "M-066",
@@ -5826,7 +5826,7 @@
     "**Engaged prospect** suddenly needs to 'think it over'",
     "The **earlier missed step** behind it goes unseen"
    ],
-   "thumbnail": "thumbs/M-066.jpg"
+   "thumbnail": "thumbs v2/M-066.jpg"
   },
   {
    "id": "M-067",
@@ -5876,7 +5876,7 @@
     "Always lose out to **busywork**",
     "No **accountability structure** in place"
    ],
-   "thumbnail": "thumbs/M-067.jpg"
+   "thumbnail": "thumbs v2/M-067.jpg"
   },
   {
    "id": "M-068",
@@ -5928,7 +5928,7 @@
     "**Discounting and over-justifying** take over",
     "Not staying **in control** of the call"
    ],
-   "thumbnail": "thumbs/M-068.jpg"
+   "thumbnail": "thumbs v2/M-068.jpg"
   },
   {
    "id": "M-069",
@@ -5973,7 +5973,7 @@
     "**'We'll circle back'** keeps replacing a firm next step",
     "**Expectations** never set clearly earlier in the process"
    ],
-   "thumbnail": "thumbs/M-069.jpg"
+   "thumbnail": "thumbs v2/M-069.jpg"
   },
   {
    "id": "M-070",
@@ -6113,7 +6113,7 @@
     "Deal falls apart at **qualifying or closing**",
     "Those **separate skills** were never built"
    ],
-   "thumbnail": "thumbs/M-071.jpg"
+   "thumbnail": "thumbs v2/M-071.jpg"
   },
   {
    "id": "M-072",
@@ -6158,7 +6158,7 @@
     "Presenting when asked, **discounting** when pushed",
     "Then treated like **every other vendor**"
    ],
-   "thumbnail": "thumbs/M-072.jpg"
+   "thumbnail": "thumbs v2/M-072.jpg"
   },
   {
    "id": "M-073",
@@ -6258,7 +6258,7 @@
     "Turns the sale into a **tug-of-war**",
     "Not an **adult-to-adult** talk where the prospect feels in control"
    ],
-   "thumbnail": "thumbs/M-073b.jpg"
+   "thumbnail": "thumbs v2/M-073b.jpg"
   },
   {
    "id": "M-074",
@@ -6304,7 +6304,7 @@
     "Avoiding cold calls or **rushing through** them",
     "Hoping to get lucky instead of a **repeatable process**"
    ],
-   "thumbnail": "thumbs/M-074.jpg"
+   "thumbnail": "thumbs v2/M-074.jpg"
   },
   {
    "id": "M-075",
@@ -6349,7 +6349,7 @@
     "The **whole pain funnel** script gets run",
     "Still unclear **which answer** matters to closing"
    ],
-   "thumbnail": "thumbs/M-075.jpg"
+   "thumbnail": "thumbs v2/M-075.jpg"
   },
   {
    "id": "M-076",
@@ -6444,7 +6444,7 @@
     "An objection shows up and **features and benefits** rush in",
     "Instead of letting the prospect **talk it through**"
    ],
-   "thumbnail": "thumbs/M-077.jpg"
+   "thumbnail": "thumbs v2/M-077.jpg"
   },
   {
    "id": "M-078",
@@ -6491,7 +6491,7 @@
     "**New logos** keep getting chased",
     "Real revenue sits inside **existing accounts**"
    ],
-   "thumbnail": "thumbs/M-078.jpg"
+   "thumbnail": "thumbs v2/M-078.jpg"
   },
   {
    "id": "M-079",
@@ -6537,7 +6537,7 @@
     "Goals **stalled for months**",
     "No recognition that your own **outlook**, not the market, holds you back"
    ],
-   "thumbnail": "thumbs/M-079.jpg"
+   "thumbnail": "thumbs v2/M-079.jpg"
   },
   {
    "id": "M-080",
@@ -6585,7 +6585,7 @@
     "**All business** with brand-new prospects",
     "Nothing ever **warms up**"
    ],
-   "thumbnail": "thumbs/M-080.jpg"
+   "thumbnail": "thumbs v2/M-080.jpg"
   },
   {
    "id": "M-080b",
@@ -6827,7 +6827,7 @@
     "Deal lost: prospect never did the **self-discovery** work",
     "That work is what **creates buy-in**"
    ],
-   "thumbnail": "thumbs/M-084.jpg"
+   "thumbnail": "thumbs v2/M-084.jpg"
   },
   {
    "id": "M-085",
@@ -6875,7 +6875,7 @@
     "Same **'price'** or **'timing'** objection for the tenth time this month",
     "Still **handled live**, never built into the **pitch** in advance"
    ],
-   "thumbnail": "thumbs/M-085.jpg"
+   "thumbnail": "thumbs v2/M-085.jpg"
   },
   {
    "id": "M-086",
@@ -6921,7 +6921,7 @@
     "No idea if **enough** rapport, pain, or budget clarity exists",
     "Enough to **justify** moving forward"
    ],
-   "thumbnail": "thumbs/M-086.jpg"
+   "thumbnail": "thumbs v2/M-086.jpg"
   },
   {
    "id": "M-087",
@@ -6967,7 +6967,7 @@
     "The prospect's **slow timeline** gets the blame",
     "Not your own **process gaps**"
    ],
-   "thumbnail": "thumbs/M-087.jpg"
+   "thumbnail": "thumbs v2/M-087.jpg"
   },
   {
    "id": "M-088",
@@ -7038,7 +7038,7 @@
     "A **red flag** with a prospect goes unspoken",
     "It **burns later** when a known non-fit client comes on board"
    ],
-   "thumbnail": "thumbs/M-089.jpg"
+   "thumbnail": "thumbs v2/M-089.jpg"
   },
   {
    "id": "M-090",
@@ -7083,7 +7083,7 @@
     "**Grinding** on new prospects",
     "Accounts sit ready to **deepen or widen** with almost no effort"
    ],
-   "thumbnail": "thumbs/M-090.jpg"
+   "thumbnail": "thumbs v2/M-090.jpg"
   },
   {
    "id": "M-090b",
@@ -7130,7 +7130,7 @@
     "Deal still slips away **by inches**",
     "Due to small, **unintentional habits**"
    ],
-   "thumbnail": "thumbs/M-090b.jpg"
+   "thumbnail": "thumbs v2/M-090b.jpg"
   },
   {
    "id": "M-091",
@@ -7177,7 +7177,7 @@
     "The actual rule **goes blank** in the moment",
     "Session drills the **one-liners** for autopilot"
    ],
-   "thumbnail": "thumbs/M-091.jpg"
+   "thumbnail": "thumbs v2/M-091.jpg"
   },
   {
    "id": "M-092",
@@ -7222,7 +7222,7 @@
     "Deals keep getting **lost 'on price'**",
     "**Pain** or **decision criteria** never truly uncovered before caving"
    ],
-   "thumbnail": "thumbs/M-092.jpg"
+   "thumbnail": "thumbs v2/M-092.jpg"
   },
   {
    "id": "M-093",
@@ -7267,7 +7267,7 @@
     "What went wrong this year is **still unnamed**",
     "So is what **success** would concretely look like"
    ],
-   "thumbnail": "thumbs/M-093.jpg"
+   "thumbnail": "thumbs v2/M-093.jpg"
   },
   {
    "id": "M-094",
@@ -7341,7 +7341,7 @@
     "It's **Q4**, coasting without a real plan for the number",
     "Session **forces specifics** before the year runs out"
    ],
-   "thumbnail": "thumbs/M-095.jpg"
+   "thumbnail": "thumbs v2/M-095.jpg"
   },
   {
    "id": "M-096",
@@ -7388,7 +7388,7 @@
     "A goal set in **January** hasn't been looked at since",
     "Midyear, unclear if **on track** or just **running by default**"
    ],
-   "thumbnail": "thumbs/M-096.jpg"
+   "thumbnail": "thumbs v2/M-096.jpg"
   },
   {
    "id": "M-097",
@@ -7419,7 +7419,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/M-097.jpg"
+   "thumbnail": "thumbs v2/M-097.jpg"
   },
   {
    "id": "M-098",
@@ -7471,7 +7471,7 @@
     "**Blaming** the leads, the boss, or the market",
     "Every lost deal, instead of **owning your part**"
    ],
-   "thumbnail": "thumbs/M-098.jpg"
+   "thumbnail": "thumbs v2/M-098.jpg"
   },
   {
    "id": "M-099",
@@ -7516,7 +7516,7 @@
     "Prospect asks point blank how you're **different** from competitors",
     "Answer is a **freeze** or a **generic line**"
    ],
-   "thumbnail": "thumbs/M-099.jpg"
+   "thumbnail": "thumbs v2/M-099.jpg"
   },
   {
    "id": "M-100",
@@ -7565,7 +7565,7 @@
     "Objections and stalls hit **right before close**, no clear reason",
     "The real problem was set up **weeks earlier**"
    ],
-   "thumbnail": "thumbs/M-100.jpg"
+   "thumbnail": "thumbs v2/M-100.jpg"
   },
   {
    "id": "M-101",
@@ -7614,7 +7614,7 @@
     "Deals reported as **further along** than they are",
     "Numbers **can't be trusted** at the top"
    ],
-   "thumbnail": "thumbs/M-101.jpg"
+   "thumbnail": "thumbs v2/M-101.jpg"
   },
   {
    "id": "M-102",
@@ -7659,7 +7659,7 @@
     "**Slipping numbers** blamed on 'the market'",
     "Instead of your own **mindset and discipline**"
    ],
-   "thumbnail": "thumbs/M-102.jpg"
+   "thumbnail": "thumbs v2/M-102.jpg"
   },
   {
    "id": "M-103",
@@ -7705,7 +7705,7 @@
     "Then **barreling through** without checking in",
     "**Losing the prospect** along the way"
    ],
-   "thumbnail": "thumbs/M-103.jpg"
+   "thumbnail": "thumbs v2/M-103.jpg"
   },
   {
    "id": "M-104",
@@ -7758,7 +7758,7 @@
     "**Striking out** with others",
     "It's a **style-adjustment** problem, not a product problem"
    ],
-   "thumbnail": "thumbs/M-104.jpg"
+   "thumbnail": "thumbs v2/M-104.jpg"
   },
   {
    "id": "M-105",
@@ -7808,7 +7808,7 @@
     "The **whole call** is built on it",
     "Session catches assumptions **before they wreck** the deal"
    ],
-   "thumbnail": "thumbs/M-105.jpg"
+   "thumbnail": "thumbs v2/M-105.jpg"
   },
   {
    "id": "M-106",
@@ -7853,7 +7853,7 @@
     "A bad call gets written off: **'customer was difficult'**",
     "Missing how your own **Parent or Child** reaction fed the conflict"
    ],
-   "thumbnail": "thumbs/M-106.jpg"
+   "thumbnail": "thumbs v2/M-106.jpg"
   },
   {
    "id": "M-107",
@@ -7902,7 +7902,7 @@
     "'Cold calling just doesn't work for me' treated as **fact**",
     "That **belief**, not the phone, is what's in the way"
    ],
-   "thumbnail": "thumbs/M-107.jpg"
+   "thumbnail": "thumbs v2/M-107.jpg"
   },
   {
    "id": "M-108",
@@ -7959,7 +7959,7 @@
     "A tough conversation keeps getting **put off**",
     "Turns into a much **bigger blowup** than needed"
    ],
-   "thumbnail": "thumbs/M-108.jpg"
+   "thumbnail": "thumbs v2/M-108.jpg"
   },
   {
    "id": "M-109",
@@ -8004,7 +8004,7 @@
     "A coworker or prospect written off as **'just difficult'**",
     "Never asking what **fear or pressure** drives it"
    ],
-   "thumbnail": "thumbs/M-109.jpg"
+   "thumbnail": "thumbs v2/M-109.jpg"
   },
   {
    "id": "M-110",
@@ -8052,7 +8052,7 @@
     "Deals keep **going dark** after meetings",
     "Never a clear, **mutual agreement** on what happens next"
    ],
-   "thumbnail": "thumbs/M-110.jpg"
+   "thumbnail": "thumbs v2/M-110.jpg"
   },
   {
    "id": "M-111",
@@ -8148,7 +8148,7 @@
     "Surface-level **'how's everything going'** questions",
     "Real pain never surfaces, so **no urgency** to change"
    ],
-   "thumbnail": "thumbs/M-112.jpg"
+   "thumbnail": "thumbs v2/M-112.jpg"
   },
   {
    "id": "M-113",
@@ -8196,7 +8196,7 @@
     "**Going soft** on pain to spare the prospect's feelings",
     "Ends up **protecting** the prospect instead of helping"
    ],
-   "thumbnail": "thumbs/M-113.jpg"
+   "thumbnail": "thumbs v2/M-113.jpg"
   },
   {
    "id": "M-114",
@@ -8227,7 +8227,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/M-114.jpg"
+   "thumbnail": "thumbs v2/M-114.jpg"
   },
   {
    "id": "M-115",
@@ -8282,7 +8282,7 @@
     "Depending on one **channel partner** or one email touch",
     "Wondering why **referrals** and **cold outreach** went cold"
    ],
-   "thumbnail": "thumbs/M-115.jpg"
+   "thumbnail": "thumbs v2/M-115.jpg"
   },
   {
    "id": "M-116",
@@ -8377,7 +8377,7 @@
     "Prospect **doesn't believe** them or checks out",
     "The data never connected to **how they feel**"
    ],
-   "thumbnail": "thumbs/M-117.jpg"
+   "thumbnail": "thumbs v2/M-117.jpg"
   },
   {
    "id": "M-118",
@@ -8427,7 +8427,7 @@
     "Chalked up to **price** or **bad timing**",
     "The deal actually **died weeks earlier**"
    ],
-   "thumbnail": "thumbs/M-118.jpg"
+   "thumbnail": "thumbs v2/M-118.jpg"
   },
   {
    "id": "M-119",
@@ -8458,7 +8458,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/M-119.jpg"
+   "thumbnail": "thumbs v2/M-119.jpg"
   },
   {
    "id": "M-120",
@@ -8563,7 +8563,7 @@
     "Prospects sound **excited** on the call",
     "Then **no-show** or cancel before the meeting"
    ],
-   "thumbnail": "thumbs/M-121.jpg"
+   "thumbnail": "thumbs v2/M-121.jpg"
   },
   {
    "id": "M-122",
@@ -8609,7 +8609,7 @@
     "Prospecting called a **priority**",
     "The **calendar** and **daily behavior** say otherwise"
    ],
-   "thumbnail": "thumbs/M-122.jpg"
+   "thumbnail": "thumbs v2/M-122.jpg"
   },
   {
    "id": "M-123",
@@ -8655,7 +8655,7 @@
     "The week **burned** on small, easy prospects",
     "Not the accounts matching the **ideal client profile**"
    ],
-   "thumbnail": "thumbs/M-123.jpg"
+   "thumbnail": "thumbs v2/M-123.jpg"
   },
   {
    "id": "M-124",
@@ -8701,7 +8701,7 @@
     "Every **planner and app** tried, still **feeling behind**",
     "Real issue: what keeps **getting a yes**, not the tool"
    ],
-   "thumbnail": "thumbs/M-124.jpg"
+   "thumbnail": "thumbs v2/M-124.jpg"
   },
   {
    "id": "M-125",
@@ -8797,7 +8797,7 @@
     "They seem **lazy and unappreciative**",
     "It started with choosing **not to help** at the first impulse"
    ],
-   "thumbnail": "thumbs/M-126.jpg"
+   "thumbnail": "thumbs v2/M-126.jpg"
   },
   {
    "id": "M-127",
@@ -8848,7 +8848,7 @@
     "**Real ability** gets played small",
     "**Self-image**, not skill set, sets the ceiling"
    ],
-   "thumbnail": "thumbs/M-127.jpg"
+   "thumbnail": "thumbs v2/M-127.jpg"
   },
   {
    "id": "M-128",
@@ -8892,7 +8892,7 @@
     "**Freezing up** before big calls or large prospects",
     "Stakes **built up mentally** far beyond the real risk"
    ],
-   "thumbnail": "thumbs/M-128.jpg"
+   "thumbnail": "thumbs v2/M-128.jpg"
   },
   {
    "id": "M-129",
@@ -8942,7 +8942,7 @@
     "That prospect **never buys**",
     "A tough one written off **actually closes**"
    ],
-   "thumbnail": "thumbs/M-129.jpg"
+   "thumbnail": "thumbs v2/M-129.jpg"
   },
   {
    "id": "M-130",
@@ -8998,7 +8998,7 @@
     "The prospect **digs in**",
     "Only the prospect can resolve it, not **argued away**"
    ],
-   "thumbnail": "thumbs/M-130.jpg"
+   "thumbnail": "thumbs v2/M-130.jpg"
   },
   {
    "id": "M-131",
@@ -9042,7 +9042,7 @@
     "The **same goals** set and missed every year",
     "No clear answer why they never felt **truly compelling**"
    ],
-   "thumbnail": "thumbs/M-131.jpg"
+   "thumbnail": "thumbs v2/M-131.jpg"
   },
   {
    "id": "M-132",
@@ -9140,7 +9140,7 @@
     "They stall in 'let me **think about it**'",
     "The response is simply **to wait**"
    ],
-   "thumbnail": "thumbs/M-133.jpg"
+   "thumbnail": "thumbs v2/M-133.jpg"
   },
   {
    "id": "M-134",
@@ -9171,7 +9171,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/M-134.jpg"
+   "thumbnail": "thumbs v2/M-134.jpg"
   },
   {
    "id": "M-135",
@@ -9217,7 +9217,7 @@
     "Quietly dying to the **status quo**",
     "Session shows where **urgency leaks** out"
    ],
-   "thumbnail": "thumbs/M-135.jpg"
+   "thumbnail": "thumbs v2/M-135.jpg"
   },
   {
    "id": "M-136",
@@ -9268,7 +9268,7 @@
     "Price **folds** the moment a buyer pushes back",
     "**Margin handed away** with nothing in exchange"
    ],
-   "thumbnail": "thumbs/M-136.jpg"
+   "thumbnail": "thumbs v2/M-136.jpg"
   },
   {
    "id": "M-137",
@@ -9312,7 +9312,7 @@
     "**Brand-new logos** get hunted",
     "**Referrals, old leads**, expansion sit untouched in the book"
    ],
-   "thumbnail": "thumbs/M-137.jpg"
+   "thumbnail": "thumbs v2/M-137.jpg"
   },
   {
    "id": "M-138",
@@ -9361,7 +9361,7 @@
     "**'Definitely closing'** deals come as a blindside",
     "Reviews unintentionally taught **optimism beats honesty**"
    ],
-   "thumbnail": "thumbs/M-138.jpg"
+   "thumbnail": "thumbs v2/M-138.jpg"
   },
   {
    "id": "M-139",
@@ -9552,7 +9552,7 @@
     "Letting prospects **steer** the conversation",
     "No decision yet on **what you believe**"
    ],
-   "thumbnail": "thumbs/M-142.jpg"
+   "thumbnail": "thumbs v2/M-142.jpg"
   },
   {
    "id": "M-143",
@@ -9597,7 +9597,7 @@
     "**White-knuckling** every uncertain outcome in business or life",
     "Costing **relationships, patience**, and peace of mind"
    ],
-   "thumbnail": "thumbs/M-143.jpg"
+   "thumbnail": "thumbs v2/M-143.jpg"
   },
   {
    "id": "M-144",
@@ -9628,7 +9628,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/M-144.jpg"
+   "thumbnail": "thumbs v2/M-144.jpg"
   },
   {
    "id": "M-145",
@@ -9700,7 +9700,7 @@
     "**High self-ratings** across the board, but **results** say otherwise",
     "Session confronts the **self-perception gap**"
    ],
-   "thumbnail": "thumbs/M-146.jpg"
+   "thumbnail": "thumbs v2/M-146.jpg"
   },
   {
    "id": "M-147",
@@ -9746,7 +9746,7 @@
     "A meeting runs **twenty minutes** with no agenda",
     "The **prospect steers** the whole conversation"
    ],
-   "thumbnail": "thumbs/M-147.jpg"
+   "thumbnail": "thumbs v2/M-147.jpg"
   },
   {
    "id": "M-148",
@@ -9794,7 +9794,7 @@
     "A **vague or hedged** answer taken at face value",
     "Missing the **hesitation**, not **digging deeper** with curiosity"
    ],
-   "thumbnail": "thumbs/M-148.jpg"
+   "thumbnail": "thumbs v2/M-148.jpg"
   },
   {
    "id": "M-U05",
@@ -9891,7 +9891,7 @@
     "**Calendars jammed** with meetings",
     "**No decisions** and no clear reason to be there"
    ],
-   "thumbnail": "thumbs/L-01.jpg"
+   "thumbnail": "thumbs v2/L-01.jpg"
   },
   {
    "id": "L-02",
@@ -10033,7 +10033,7 @@
     "Work that should be **handed off** keeps piling up",
     "**Held onto** because 'no one does it as well as I do'"
    ],
-   "thumbnail": "thumbs/L-04.jpg"
+   "thumbnail": "thumbs v2/L-04.jpg"
   },
   {
    "id": "L-05",
@@ -10079,7 +10079,7 @@
     "Real leak: **procrastination** and low-value work",
     "Doing it personally instead of **delegating**"
    ],
-   "thumbnail": "thumbs/L-05.jpg"
+   "thumbnail": "thumbs v2/L-05.jpg"
   },
   {
    "id": "L-06",
@@ -10123,7 +10123,7 @@
     "Targets keep getting **missed**, no obvious reason",
     "Your own **comp plan** quietly rewards the wrong behavior"
    ],
-   "thumbnail": "thumbs/L-06.jpg"
+   "thumbnail": "thumbs v2/L-06.jpg"
   },
   {
    "id": "L-07",
@@ -10169,7 +10169,7 @@
     "Deals fall apart on vague **'trust issues'**",
     "Trust is broken at a **specific step** of your own process"
    ],
-   "thumbnail": "thumbs/L-07.jpg"
+   "thumbnail": "thumbs v2/L-07.jpg"
   },
   {
    "id": "L-08",
@@ -10221,7 +10221,7 @@
     "**Distractions** keep taking over",
     "**Execution** never seems to happen"
    ],
-   "thumbnail": "thumbs/L-08.jpg"
+   "thumbnail": "thumbs v2/L-08.jpg"
   },
   {
    "id": "L-09",
@@ -10253,7 +10253,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/L-09.jpg"
+   "thumbnail": "thumbs v2/L-09.jpg"
   },
   {
    "id": "L-09a",
@@ -10348,7 +10348,7 @@
     "The **same message** keeps landing",
     "**Completely differently** across the team"
    ],
-   "thumbnail": "thumbs/L-10.jpg"
+   "thumbnail": "thumbs v2/L-10.jpg"
   },
   {
    "id": "L-11",
@@ -10404,7 +10404,7 @@
     "Real issues never surface; **harmony beats truth**",
     "Decisions quietly **vetoed** behind the scenes"
    ],
-   "thumbnail": "thumbs/L-11.jpg"
+   "thumbnail": "thumbs v2/L-11.jpg"
   },
   {
    "id": "L-12",
@@ -10804,7 +10804,7 @@
     "Culture assumed to be the **poster** on the wall",
     "Real culture: behavior **tolerated** from top and bottom performers"
    ],
-   "thumbnail": "thumbs/L-20.jpg"
+   "thumbnail": "thumbs v2/L-20.jpg"
   },
   {
    "id": "L-21",
@@ -10857,7 +10857,7 @@
     "Then everything left to **figure out alone**",
     "Ramp-up takes **months longer** than it should"
    ],
-   "thumbnail": "thumbs/L-21.jpg"
+   "thumbnail": "thumbs v2/L-21.jpg"
   },
   {
    "id": "L-22",
@@ -10889,7 +10889,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/L-22.jpg"
+   "thumbnail": "thumbs v2/L-22.jpg"
   },
   {
    "id": "L-23",
@@ -10935,7 +10935,7 @@
     "To fix **performance problems**",
     "**Adoption stalls**; results don't move"
    ],
-   "thumbnail": "thumbs/L-23.jpg"
+   "thumbnail": "thumbs v2/L-23.jpg"
   },
   {
    "id": "L-24",
@@ -11065,7 +11065,7 @@
     "**Excuses** keep getting made for missed goals",
     "Instead of **holding the line**"
    ],
-   "thumbnail": "thumbs/L-26.jpg"
+   "thumbnail": "thumbs v2/L-26.jpg"
   },
   {
    "id": "L-27",
@@ -11110,7 +11110,7 @@
     "As needing **more money** or 'not motivated'",
     "Never finding out what **actually drives** them"
    ],
-   "thumbnail": "thumbs/L-27.jpg"
+   "thumbnail": "thumbs v2/L-27.jpg"
   },
   {
    "id": "L-28",
@@ -11238,7 +11238,7 @@
     "**'Definitely closing'** deals come as a blindside",
     "Reviews unintentionally taught **optimism beats honesty**"
    ],
-   "thumbnail": "thumbs/L-30.jpg"
+   "thumbnail": "thumbs v2/L-30.jpg"
   },
   {
    "id": "L-31",
@@ -11395,7 +11395,7 @@
     "Never pinpoints where in the **pipeline** deals are lost",
     "Unclear which **specific skill** is costing deals"
    ],
-   "thumbnail": "thumbs/L-33.jpg"
+   "thumbnail": "thumbs v2/L-33.jpg"
   },
   {
    "id": "L-34",
@@ -11568,7 +11568,7 @@
     "Default: who's been here **longest** or who **hit their number**",
     "Not who's actually **ready to lead**"
    ],
-   "thumbnail": "thumbs/L-37.jpg"
+   "thumbnail": "thumbs v2/L-37.jpg"
   },
   {
    "id": "L-39",
@@ -11764,7 +11764,7 @@
     "A lost **top performer**, a **blown deadline**, a costly mistake",
     "Holding back instead of **stepping up**"
    ],
-   "thumbnail": "thumbs/L-44.jpg"
+   "thumbnail": "thumbs v2/L-44.jpg"
   },
   {
    "id": "L-45",
@@ -11997,7 +11997,7 @@
     "**Over-explaining, over-presenting**, chasing **unqualified deals**",
     "Full **sales system** never walked through **end to end**"
    ],
-   "thumbnail": "thumbs/BC-02.jpg"
+   "thumbnail": "thumbs v2/BC-02.jpg"
   },
   {
    "id": "BC-03",
@@ -12125,7 +12125,7 @@
     "Unseen cause: communicating from a **Critical Parent** style",
     "The report's **DISC profile** reacts poorly to it"
    ],
-   "thumbnail": "thumbs/BC-04.jpg"
+   "thumbnail": "thumbs v2/BC-04.jpg"
   },
   {
    "id": "BC-05",
@@ -12170,7 +12170,7 @@
     "Prospecting gets **avoided** as intrusive or **beneath the role**",
     "Rebuilt on a **formula** and **business-development math** worth trusting"
    ],
-   "thumbnail": "thumbs/BC-05.jpg"
+   "thumbnail": "thumbs v2/BC-05.jpg"
   },
   {
    "id": "BC-06",
@@ -12215,7 +12215,7 @@
     "Every **brush-off** gets taken **personally**",
     "**Prospecting burnout** sets in with no **formula or plan**"
    ],
-   "thumbnail": "thumbs/BC-06.jpg"
+   "thumbnail": "thumbs v2/BC-06.jpg"
   },
   {
    "id": "SS-01",
@@ -12261,7 +12261,7 @@
     "Goals get written down **every January**",
     "Nothing changes; they never become a **daily, visible commitment**"
    ],
-   "thumbnail": "thumbs/SS-01.jpg"
+   "thumbnail": "thumbs v2/SS-01.jpg"
   },
   {
    "id": "SS-02",
@@ -12633,7 +12633,7 @@
     "Coaching targets the **surface deal problem**",
     "Not the **sales behavior** actually causing it"
    ],
-   "thumbnail": "thumbs/LP-01.jpg"
+   "thumbnail": "thumbs v2/LP-01.jpg"
   },
   {
    "id": "LP-02",
@@ -12680,7 +12680,7 @@
     "Real issue: fear of **losing control**",
     "Or fear of work not done exactly the **preferred way**"
    ],
-   "thumbnail": "thumbs/LP-02.jpg"
+   "thumbnail": "thumbs v2/LP-02.jpg"
   },
   {
    "id": "LP-03",
@@ -12726,7 +12726,7 @@
     "The reflex is to **solve them**",
     "Never asking why they **keep showing up**"
    ],
-   "thumbnail": "thumbs/LP-03.jpg"
+   "thumbnail": "thumbs v2/LP-03.jpg"
   },
   {
    "id": "LP-04",
@@ -12772,7 +12772,7 @@
     "The reflex is to **solve them**",
     "Never asking why they **keep showing up**"
    ],
-   "thumbnail": "thumbs/LP-04.jpg"
+   "thumbnail": "thumbs v2/LP-04.jpg"
   },
   {
    "id": "LP-05",
@@ -12817,7 +12817,7 @@
     "**Coach, trainer, mentor** hats never worn",
     "Only the **supervisor hat** gets worn"
    ],
-   "thumbnail": "thumbs/LP-05.jpg"
+   "thumbnail": "thumbs v2/LP-05.jpg"
   },
   {
    "id": "LP-06",
@@ -12905,7 +12905,7 @@
     "**Excuses** keep getting made for the same underperformer",
     "Not admitting mediocrity is tolerated **from the top**"
    ],
-   "thumbnail": "thumbs/LP-07.jpg"
+   "thumbnail": "thumbs v2/LP-07.jpg"
   },
   {
    "id": "LP-08",
@@ -12950,7 +12950,7 @@
     "Working hard on a deal, but just **reacting** to the prospect",
     "Not **driving** the deal forward"
    ],
-   "thumbnail": "thumbs/LP-08.jpg"
+   "thumbnail": "thumbs v2/LP-08.jpg"
   },
   {
    "id": "LP-09",
@@ -12993,7 +12993,7 @@
     "Pipeline full of deals **30+ days** without a **real decision**",
     "And **no one's asking** why"
    ],
-   "thumbnail": "thumbs/LP-09.jpg"
+   "thumbnail": "thumbs v2/LP-09.jpg"
   },
   {
    "id": "LP-10",
@@ -13080,7 +13080,7 @@
     "Promotions go to whoever's been here **longest** or **produced the most**",
     "No check for actual **leadership traits**"
    ],
-   "thumbnail": "thumbs/LP-11.jpg"
+   "thumbnail": "thumbs v2/LP-11.jpg"
   },
   {
    "id": "LP-12",
@@ -13172,7 +13172,7 @@
     "The response keeps being **re-training**",
     "Not deciding: **process problem** or **person problem**?"
    ],
-   "thumbnail": "thumbs/LP-13.jpg"
+   "thumbnail": "thumbs v2/LP-13.jpg"
   },
   {
    "id": "LP-14",
@@ -13219,7 +13219,7 @@
     "**Hard conversations** or behaviors keep getting **avoided**",
     "**Invented reasons** why doing them would be the **wrong move**"
    ],
-   "thumbnail": "thumbs/LP-14.jpg"
+   "thumbnail": "thumbs v2/LP-14.jpg"
   },
   {
    "id": "LP-15",
@@ -13481,7 +13481,7 @@
     "After a great or rough month, deciding what to **repeat or fix**",
     "Focus only on what's **actually controllable**"
    ],
-   "thumbnail": "thumbs/SP-04.jpg"
+   "thumbnail": "thumbs v2/SP-04.jpg"
   },
   {
    "id": "SP-05",
@@ -13571,7 +13571,7 @@
     "Every call turns into **defending price** and **handling objections**",
     "Instead of **driving the conversation**"
    ],
-   "thumbnail": "thumbs/SP-06.jpg"
+   "thumbnail": "thumbs v2/SP-06.jpg"
   },
   {
    "id": "SP-07",
@@ -13616,7 +13616,7 @@
     "Making it **about yourself** instead of the other side",
     "Not digging into what the other side **actually needs**"
    ],
-   "thumbnail": "thumbs/SP-07.jpg"
+   "thumbnail": "thumbs v2/SP-07.jpg"
   },
   {
    "id": "SP-08",
@@ -13710,7 +13710,7 @@
     "Real **compelling reason** never uncovered",
     "Or a **next step** never locked in"
    ],
-   "thumbnail": "thumbs/SP-09.jpg"
+   "thumbnail": "thumbs v2/SP-09.jpg"
   },
   {
    "id": "SP-10",
@@ -13745,7 +13745,7 @@
     "Team stuck **reacting emotionally** during a change or transition",
     "Not realizing it's a **predictable stage** of the **change curve**"
    ],
-   "thumbnail": "thumbs/SP-10.jpg"
+   "thumbnail": "thumbs v2/SP-10.jpg"
   },
   {
    "id": "SP-11",
@@ -14110,7 +14110,7 @@
     "Process recited but not **consistently executed** under pressure",
     "**Known**, but not yet **owned**"
    ],
-   "thumbnail": "thumbs/SP-18.jpg"
+   "thumbnail": "thumbs v2/SP-18.jpg"
   },
   {
    "id": "SP-19",
@@ -14247,7 +14247,7 @@
     "**Referral asks** get avoided as **awkward or greedy**",
     "**Highest-converting source** of business left **untapped**"
    ],
-   "thumbnail": "thumbs/SP-21.jpg"
+   "thumbnail": "thumbs v2/SP-21.jpg"
   },
   {
    "id": "SP-22",
@@ -14337,7 +14337,7 @@
     "Role play gets dodged from fear of **looking bad**",
     "Never any **real practice** before the **real call**"
    ],
-   "thumbnail": "thumbs/SP-23.jpg"
+   "thumbnail": "thumbs v2/SP-23.jpg"
   },
   {
    "id": "SP-24",
@@ -14411,7 +14411,7 @@
     "Client wants training, but **never defined** what it looks like",
     "**Group meetings**, modules, or **coaching cadence** left undefined"
    ],
-   "thumbnail": "thumbs/SP-25.jpg"
+   "thumbnail": "thumbs v2/SP-25.jpg"
   },
   {
    "id": "S-Q1A-MGR-1",
@@ -14434,7 +14434,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OdOZQrU3Mwa487Xu0Ag/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/1.%20Session%201",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/1.%20Session%201/Session%201_Manager%20-%20Coaching%20Prospectors.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/1.%20Session%201/Session%201_Manager%20-%20Accountability%20Leader%20Guide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/1.%20Session%201/Session%201_Manager%20-%20Accountability%20Leader%20Guide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1EQyz3LL3I8fSUxcKKuHlBn8rYsfx8VtfBwJc3ydFnlE/edit"
    },
    "card_bullets": [
     "Avoiding **accountability** on **prospecting activity**",
@@ -14456,7 +14457,7 @@
     "A week of research and **email campaigns**, not **real prospecting**",
     "Nothing gets said for fear of seeming a **micromanager**"
    ],
-   "thumbnail": "thumbs/S-Q1A-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1A-MGR-1.jpg"
   },
   {
    "id": "S-Q1A-MGR-2",
@@ -14480,7 +14481,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OdUKysOmQVPXfb2k6Gm/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/2.%20Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/2.%20Session%202/Session%202%20-%20Manager%20-%20Coaching%20Prospectors.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/2.%20Session%202/Manager%20-%20Session%202%20-%20Leaderguide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/2.%20Session%202/Manager%20-%20Session%202%20-%20Leaderguide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1LYlaRfnvZ7FGXeOPIuEOtd3lonVB-yfS1pOHJam1Ifg/edit"
    },
    "card_bullets": [
     "Tracking **activity** instead of **conversion**",
@@ -14504,7 +14506,7 @@
     "No idea how many became **real conversations**",
     "**Non-converting activity** keeps getting praised"
    ],
-   "thumbnail": "thumbs/S-Q1A-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1A-MGR-2.jpg"
   },
   {
    "id": "S-Q1A-MGR-3",
@@ -14527,7 +14529,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OdULIH3ctsn_B--Jb1F/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/3.%20Session%203",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/3.%20Session%203/Session%203%20-%20Manager%20-%20Coaching%20Prospectors.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/3.%20Session%203/Session%203%20-%20Manager%20-%20Leader%20Guide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Managers%20-%20Coaching%20Prospectors/3.%20Session%203/Session%203%20-%20Manager%20-%20Leader%20Guide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1A6lyjX9ieJp3UULLoVUB-bXTvkTbaYxHEjkn24WaH40/edit"
    },
    "card_bullets": [
     "**Activity** happening, **meetings not booked**",
@@ -14551,7 +14554,7 @@
     "The **30-second commercial** gets rewritten again",
     "Not diagnosing **who's being called** or **delivery under pressure**"
    ],
-   "thumbnail": "thumbs/S-Q1A-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1A-MGR-3.jpg"
   },
   {
    "id": "S-Q1B-MGR-1",
@@ -14578,7 +14581,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Managers%20-%20Leading%20Through%20Discomfort/Session%201/Session%201_Managers_Leading%20Through%20Discomfort.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Managers%20-%20Leading%20Through%20Discomfort/Session%201/Leaderguide_Leading%20Through%20Discomfort%20Session%201.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/1. Leading Through Discomfort (MGR) 1 of 3/1. Leading Through Discomfort 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/1. Leading Through Discomfort (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/1. Leading Through Discomfort (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1tn78FRPeOh6xlqV4zOfvXFhoiWnFw50Jh-qvk7MhQII/edit"
    },
    "card_bullets": [
     "Avoiding **accountability** and **tough feedback**",
@@ -14598,7 +14602,7 @@
     "The hard **accountability conversation** keeps getting labeled not worth the tension",
     "**Team's standards** quietly **slide** as a result"
    ],
-   "thumbnail": "thumbs/S-Q1B-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1B-MGR-1.jpg"
   },
   {
    "id": "S-Q1B-MGR-2",
@@ -14622,7 +14626,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Managers%20-%20Leading%20Through%20Discomfort/Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Managers%20-%20Leading%20Through%20Discomfort/Session%202/Session%202_Managers%20-%20Leading%20Through%20Discomfort.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/2. Leading Through Discomfort (MGR) 2 of 3/2. Leading Through Discomfort 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/2. Leading Through Discomfort (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/2. Leading Through Discomfort (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1PgdXmTgEk561KDTEMm8KQfuultWYVFP2icls6OVWTP4/edit"
    },
    "card_bullets": [
     "**Self-sabotage** right when **winning starts**",
@@ -14667,7 +14672,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Managers%20-%20Leading%20Through%20Discomfort/Session%203/Session%203_Managers%20-%20Leading%20Through%20Discomfort.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Managers%20-%20Leading%20Through%20Discomfort/Session%203/Leader%20guide%20Session%203.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/3. Leading Through Discomfort (MGR) 3 of 3/3. Leading Through Discomfort 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/3. Leading Through Discomfort (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (MGR) Leading Through Discomfort/3. Leading Through Discomfort (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1M9x07pLoKJKzoS2BVe9asHUtC16AQCR8_dClDXHHgZ0/edit"
    },
    "card_bullets": [
     "**Reacting to fires** all day",
@@ -14714,7 +14720,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Managers%20Predictable%20Results/Session%201/Session%201_Manager_Predictable%20Results%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Managers%20Predictable%20Results/Session%201/Session%201_Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/1. Predictable Results (MGR) 1 of 3/1. Predictable Results 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/1. Predictable Results (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/1. Predictable Results (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1X4OHhWbc_4bO-vfPesdX-xU5M44u28qyXj_EjpHihuY/edit"
    },
    "card_bullets": [
     "Stuck **reacting to fires** and **interruptions**",
@@ -14736,7 +14743,7 @@
     "Expecting **self-motivated professionals** who don't need babysitting",
     "Real gap: no **designed system** driving consistent behavior week to week"
    ],
-   "thumbnail": "thumbs/S-Q1C-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1C-MGR-1.jpg"
   },
   {
    "id": "S-Q1C-MGR-2",
@@ -14764,7 +14771,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Managers%20Predictable%20Results/Session%202/Session%202_Manager_Predictable%20Results%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Managers%20Predictable%20Results/Session%202/Session%202_Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/2. Predictable Results (MGR) 2 of 3/2. Predictable Results 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/2. Predictable Results (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/2. Predictable Results (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/19mNlcqePGfzypy14-fBAyiPZr9qBCFyZn8mudT0BLnU/edit"
    },
    "card_bullets": [
     "**Reactive leadership** under **pressure**",
@@ -14787,7 +14795,7 @@
     "**Pressure replaces coaching** in those conversations",
     "The team absorbs the **panic** instead of a **plan**"
    ],
-   "thumbnail": "thumbs/S-Q1C-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1C-MGR-2.jpg"
   },
   {
    "id": "S-Q1C-MGR-3",
@@ -14812,7 +14820,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Managers%20Predictable%20Results/Session%203/Session%203_Manager_Predictable%20Results%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Managers%20Predictable%20Results/Session%203/Session%203_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/3. Predictable Results (MGR) 3 of 3/3. Predicatable Results 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/3. Predictable Results (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (MGR) Predictable Results/3. Predictable Results (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1fkjjhVl3zIk1Eoue1p6Nq39Y_tORbVHJt6rL_tzH0eM/edit"
    },
    "card_bullets": [
     "**Same reminders**, no **behavior change**",
@@ -14835,7 +14844,7 @@
     "Same thing said **week after week**, **nothing changes**",
     "One-on-ones have **no real structure** behind them"
    ],
-   "thumbnail": "thumbs/S-Q1C-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1C-MGR-3.jpg"
   },
   {
    "id": "S-Q1D-MGR-1",
@@ -14861,7 +14870,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Manager%20-%20Coaching%20Discovery/Session%201/Session%201_Manager_Coaching%20Discovery%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Manager%20-%20Coaching%20Discovery/Session%201/Session%201_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/1. Coaching Discovery (MGR) 1 of 3/1. Coaching Discovery 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/1. Coaching Discovery (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/1. Coaching Discovery (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1f416B4UbNb-cFwbBVavmuD02f2lsMYHWYV5sYjYD2S0/edit"
    },
    "card_bullets": [
     "Jumping in to **fix or explain**",
@@ -14883,7 +14893,7 @@
     "Coaching gets **uncomfortable**, so the **answers come out**",
     "Team never develops **instincts** to solve problems **on its own**"
    ],
-   "thumbnail": "thumbs/S-Q1D-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1D-MGR-1.jpg"
   },
   {
    "id": "S-Q1D-MGR-2",
@@ -14906,7 +14916,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Manager%20-%20Coaching%20Discovery/Session%202/Session%202_Manager_Coaching%20Discovery%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Manager%20-%20Coaching%20Discovery/Session%202/Session%202_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/2. Coaching Discovery (MGR) 2 of 3/2. Coaching Discovery 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/2. Coaching Discovery (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/2. Coaching Discovery (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1zTt5CXLm5W-eBkqX-X4Z2SftoVcepEocz86kxu5gh7g/edit"
    },
    "card_bullets": [
     "**Answering too quickly** in coaching",
@@ -14928,7 +14939,7 @@
     "Coaching gets **nods and agreement** on everything",
     "Nothing about how **calls are run** changes afterward"
    ],
-   "thumbnail": "thumbs/S-Q1D-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1D-MGR-2.jpg"
   },
   {
    "id": "S-Q1D-MGR-3",
@@ -14954,7 +14965,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Manager%20-%20Coaching%20Discovery/Session%203/Session%203_Manager_Coaching%20Discovery%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Manager%20-%20Coaching%20Discovery/Session%203/Session%203_Manager_leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/3. Coaching Discovery (MGR) 3 of 3/3. Coaching Discovery 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/3. Coaching Discovery (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (MGR) Coaching Discovery/3. Coaching Discovery (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/16X6fyf37Rqm79ROpbmei567yeODTgU974JRIHFDLDdw/edit"
    },
    "card_bullets": [
     "Mistaking **politeness** for **motivation**",
@@ -14974,7 +14986,7 @@
     "Coaching call **feels great**: agreement, smart questions",
     "Then nothing changes; **interest** mistaken for **commitment**"
    ],
-   "thumbnail": "thumbs/S-Q1D-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1D-MGR-3.jpg"
   },
   {
    "id": "S-Q2A-MGR-1",
@@ -14996,7 +15008,8 @@
    "links": {
     "beautiful_ai": "https://www.beautiful.ai/-OnwqJfz0bcTX1QPjnRt/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%201",
-    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%201/Session%201_Manager_Coaching%20Qualification_Beautiful%20Deck.url"
+    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%201/Session%201_Manager_Coaching%20Qualification_Beautiful%20Deck.url",
+    "google_slides": "https://docs.google.com/presentation/d/14HRwp2nJx8NX6P6SA1qn3LEAd66LUAzdH8ebGVyn12k/edit"
    },
    "card_bullets": [
     "Advancing deals on **engagement signals**",
@@ -15020,7 +15033,7 @@
     "Until **price** or a **decision-maker** enters the picture",
     "Nobody asked about **pain, budget**, or decision along the way"
    ],
-   "thumbnail": "thumbs/S-Q2A-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-MGR-1.jpg"
   },
   {
    "id": "S-Q2A-MGR-2",
@@ -15043,7 +15056,8 @@
    "links": {
     "beautiful_ai": "https://www.beautiful.ai/-Oo1Gm_XJIZk_8iw8sbf/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%202",
-    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%202/Session%202_Manager_Coaching%20Qualification%20Deck.url"
+    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%202/Session%202_Manager_Coaching%20Qualification%20Deck.url",
+    "google_slides": "https://docs.google.com/presentation/d/1OXhPVs27g8wWugxy-ITds1OYV2719oTByi-N8dweMmw/edit"
    },
    "card_bullets": [
     "Stopping at **surface pain indicators**",
@@ -15066,7 +15080,7 @@
     "No real **urgency or ownership** behind it",
     "Deal **stalls** the second it's time to **decide**"
    ],
-   "thumbnail": "thumbs/S-Q2A-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-MGR-2.jpg"
   },
   {
    "id": "S-Q2A-MGR-3",
@@ -15087,7 +15101,8 @@
    "links": {
     "beautiful_ai": "https://www.beautiful.ai/-OpmzV-mqYcIE02Yt80c/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%203",
-    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%203/Session%203_Manager_Coaching%20Qualification%20Deck.url"
+    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%203/Session%203_Manager_Coaching%20Qualification%20Deck.url",
+    "google_slides": "https://docs.google.com/presentation/d/1Cv1dY7ZIu1wJHfkryTJHYR4wfZpxMf4MtPWksJwo0L4/edit"
    },
    "card_bullets": [
     "**Budget** never qualified **early**",
@@ -15111,7 +15126,7 @@
     "Then **die** the second a **price shows up** on paper",
     "Nobody tied the problem's **cost** to the investment **early enough**"
    ],
-   "thumbnail": "thumbs/S-Q2A-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-MGR-3.jpg"
   },
   {
    "id": "S-Q2A-MGR-4",
@@ -15134,7 +15149,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-Orz-MMRlho3rrFFjXZC/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%204",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%204/Session%204%20Coaching%20Qualification_Manager%20Deck.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%204/Session%204%20Leader%20Guide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Managers%20-%20Coaching%20Qualification/Session%204/Session%204%20Leader%20Guide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1TJZ18KAKxe9PCAG7YQnROU2QO9Hrqbf67f53DhWPVH8/edit"
    },
    "card_bullets": [
     "Asking about **timelines** on **stalled deals**",
@@ -15157,7 +15173,7 @@
     "Reflex is asking about **timelines**",
     "Not coaching to find the **missing decision**"
    ],
-   "thumbnail": "thumbs/S-Q2A-MGR-4.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-MGR-4.jpg"
   },
   {
    "id": "S-Q2B-MGR-1",
@@ -15186,7 +15202,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Managers%20-%20Managing%20Resistance/Session%201",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Managers%20-%20Managing%20Resistance/Session%201/Session%201_Manager_Managing%20Resistance%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/1. Managing Resistance (MGR) 1 of 3/1. Managing Resistance 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/1. Managing Resistance (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/1. Managing Resistance (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1pQOdZ5JsAJ2sp6BUxZKVH28sJJNzsKVjhXwjuarr85g/edit"
    },
    "card_bullets": [
     "**Objections** created **earlier** in the deal",
@@ -15209,7 +15226,7 @@
     "Even after coaching on **how to handle** them",
     "Pipeline reviews become **arguments** once **defensiveness** shows up"
    ],
-   "thumbnail": "thumbs/S-Q2B-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2B-MGR-1.jpg"
   },
   {
    "id": "S-Q2B-MGR-2",
@@ -15241,7 +15258,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Managers%20-%20Managing%20Resistance/Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Managers%20-%20Managing%20Resistance/Session%202/Session%202_Manager_Managing%20Resistance%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/2. Managing Resistance (MGR) 2 of 3/2. Managing Resistance 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/2. Managing Resistance (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/2. Managing Resistance (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1sHQ0ubqCDX2J4aZnCKS1qm1gZ-g9HmhgeMcgyBTnhHg/edit"
    },
    "card_bullets": [
     "Generic \"**handle it better**\" coaching",
@@ -15263,7 +15281,7 @@
     "Coaching stays at '**say it better**'",
     "Never diagnosing what **kind of objection** killed the deal"
    ],
-   "thumbnail": "thumbs/S-Q2B-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2B-MGR-2.jpg"
   },
   {
    "id": "S-Q2B-MGR-3",
@@ -15285,7 +15303,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Managers%20-%20Managing%20Resistance/Session%203",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Managers%20-%20Managing%20Resistance/Session%203/Session%203_Manager_Managing%20Resistance%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/3. Managing Resistance (MGR) 3 of 3/3. Managing Resistance 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/3. Managing Resistance (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (MGR) Managing Resistance/3. Managing Resistance (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1KHnZPpkP6I9os0ECEfaruGmEP1fr13eSXo4O0BFFAT8/edit"
    },
    "card_bullets": [
     "**Same feedback**, no **behavior change**",
@@ -15306,7 +15325,7 @@
     "Same issue **discussed multiple times**, nothing changes",
     "Coaching meets **defensiveness** instead of **listening**"
    ],
-   "thumbnail": "thumbs/S-Q2B-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2B-MGR-3.jpg"
   },
   {
    "id": "S-Q2C-MGR-1",
@@ -15332,7 +15351,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Managers%20-%20Coaching%20Prospectors/1.%20Session%201/Session%201_Manager%20-%20Coaching%20Prospectors.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Managers%20-%20Coaching%20Prospectors/1.%20Session%201/Session%201_Manager%20-%20Accountability%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/1. Coaching Prospectors (MGR) 1 of 3/1. Coaching Prospectors 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/1. Coaching Prospectors (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/1. Coaching Prospectors (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1EQyz3LL3I8fSUxcKKuHlBn8rYsfx8VtfBwJc3ydFnlE/edit"
    },
    "card_bullets": [
     "Avoiding **accountability** on **prospecting activity**",
@@ -15354,7 +15374,7 @@
     "A week of research and **email campaigns**, not **real prospecting**",
     "Nothing gets said for fear of seeming a **micromanager**"
    ],
-   "thumbnail": "thumbs/S-Q2C-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2C-MGR-1.jpg"
   },
   {
    "id": "S-Q2C-MGR-2",
@@ -15381,7 +15401,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Managers%20-%20Coaching%20Prospectors/2.%20Session%202/Session%202%20-%20Manager%20-%20Coaching%20Prospectors%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Managers%20-%20Coaching%20Prospectors/2.%20Session%202/Manager%20-%20Session%202%20-%20Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/2. Coaching Prospectors (MGR) 2 of 3/2. Coaching Prospectors 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/2. Coaching Prospectors (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/2. Coaching Prospectors (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1LYlaRfnvZ7FGXeOPIuEOtd3lonVB-yfS1pOHJam1Ifg/edit"
    },
    "card_bullets": [
     "Tracking **activity** instead of **conversion**",
@@ -15405,7 +15426,7 @@
     "No idea how many became **real conversations**",
     "**Non-converting activity** keeps getting praised"
    ],
-   "thumbnail": "thumbs/S-Q2C-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2C-MGR-2.jpg"
   },
   {
    "id": "S-Q2C-MGR-3",
@@ -15431,7 +15452,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Managers%20-%20Coaching%20Prospectors/3.%20Session%203/Session%203%20-%20Manager%20-%20Coaching%20Prospectors%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Managers%20-%20Coaching%20Prospectors/3.%20Session%203/Session%203%20-%20Manager%20-%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/3. Coaching Prospectors (MGR) 3 of 3/3. Coaching Prospectors 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/3. Coaching Prospectors (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (MGR) Coaching Prospectors/3. Coaching Prospectors (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1A6lyjX9ieJp3UULLoVUB-bXTvkTbaYxHEjkn24WaH40/edit"
    },
    "card_bullets": [
     "**Activity** happening, **meetings not booked**",
@@ -15455,7 +15477,7 @@
     "The **30-second commercial** gets rewritten again",
     "Not diagnosing **who's being called** or **delivery under pressure**"
    ],
-   "thumbnail": "thumbs/S-Q2C-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2C-MGR-3.jpg"
   },
   {
    "id": "S-Q2D-MGR-1",
@@ -15478,7 +15500,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Managers%20-%20Pipeline%20Management/Session%201/Session%201%20-%20Pipeline%20Management%20-%20Beautiful%20AI%20Deck%20link.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Managers%20-%20Pipeline%20Management/Session%201/Session%201_LEADERGUIDE.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/1. Pipeline Management (MGR) 1 of 3/1. Pipeline Management 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/1. Pipeline Management (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/1. Pipeline Management (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1HZbp-4GQILlaYiMnkUgHX4yUcyWaSgUE_c_iTcZWM5g/edit"
    },
    "card_bullets": [
     "**Rescuing deals** too **late**",
@@ -15500,7 +15523,7 @@
     "Deals reach the **finish line** without closing",
     "A **last-minute rescue** targets a deal **dying for weeks**"
    ],
-   "thumbnail": "thumbs/S-Q2D-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2D-MGR-1.jpg"
   },
   {
    "id": "S-Q2D-MGR-2",
@@ -15526,7 +15549,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Managers%20-%20Pipeline%20Management/Session%202/Session%202_Pipeline%20Management%20Beautiful%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Managers%20-%20Pipeline%20Management/Session%202/Session%202_LEADERGUIDE.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/2. Pipeline Management (MGR) 2 of 3/2. Pipeline Management (MGR) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/2. Pipeline Management (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/2. Pipeline Management (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1t2J9in2J1BrTa231WXwodfllwsuXK31jkpdP0lbBAhQ/edit"
    },
    "card_bullets": [
     "**Rescuing** stalled deals **one by one**",
@@ -15550,7 +15574,7 @@
     "Real **decision-maker access** never pushed for",
     "Out of fear of seeming **too aggressive**"
    ],
-   "thumbnail": "thumbs/S-Q2D-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2D-MGR-2.jpg"
   },
   {
    "id": "S-Q2D-MGR-3",
@@ -15573,7 +15597,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Managers%20-%20Pipeline%20Management/Session%203/Session%203%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Managers%20-%20Pipeline%20Management/Session%203/Session%203_Managers%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/3. Pipeline Management (MGR) 3 of 3/3. Pipeline Management 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/3. Pipeline Management (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (MGR) Pipeline Management/3. Pipeline Management (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1g9zjqcB260qdpiURh_apHg0Nj98P1qGfyqakbUMCfls/edit"
    },
    "card_bullets": [
     "Managing the **sales pipeline**",
@@ -15582,7 +15607,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/S-Q2D-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2D-MGR-3.jpg"
   },
   {
    "id": "S-Q3A-MGR-1",
@@ -15608,7 +15633,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Manager%20-%20Digital%20Management/Session%201/Session%201%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Manager%20-%20Digital%20Management/Session%201/Digital%20Management%20S.1%20Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/1. Digital Management (MGR) 1 of 3/1. Digital Management (MGR) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/1. Digital Management (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/1. Digital Management (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1oKmYWSE4SOEwFa_n-Gy7so86y2AzYJzqbzWLEJsFHZU/edit"
    },
    "card_bullets": [
     "**Social selling** never **clearly defined**",
@@ -15631,7 +15657,7 @@
     "Basic **platform or message** questions go unanswered",
     "Nobody is coached to a **standard**"
    ],
-   "thumbnail": "thumbs/S-Q3A-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3A-MGR-1.jpg"
   },
   {
    "id": "S-Q3A-MGR-2",
@@ -15658,7 +15684,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Manager%20-%20Digital%20Management/Session%202/Session%202%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Manager%20-%20Digital%20Management/Session%202/Digital%20Management%20S.2%20Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/2. Digital Management (MGR) 2 of 3/2. Digital Management (MGR) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/2. Digital Management (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/2. Digital Management (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1bKRRX5Z9em0fGhoUBmWt4zNZKyCtfhbVvxKj52C5t9k/edit"
    },
    "card_bullets": [
     "Blaming the **CRM** for **bad pipeline**",
@@ -15699,7 +15726,8 @@
     "drive_folder": "https://drive.google.com/drive/folders/14odshc3br5ba5PGaAISSLp98jpcwtU-g",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Manager%20-%20Digital%20Management/Session%203",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/3. Digital Management (MGR) 3 of 3/3. Digital Management (MGR) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/3. Digital Management (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (MGR) Digital Management/3. Digital Management (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1GISBVJ_WWzfvjlYZjcNgq-GUL55MkhmepD4kmSZZsBU/edit"
    },
    "card_bullets": [
     "Managing the **digital side** of sales",
@@ -15708,7 +15736,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/S-Q3A-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3A-MGR-3.jpg"
   },
   {
    "id": "S-Q3B-MGR-1",
@@ -15735,7 +15763,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Managers%20-%20Coaching%20Value%20Sellers/Session%201/Session%201%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Managers%20-%20Coaching%20Value%20Sellers/Session%201/Coaching%20Value%20Selling%20Session%20Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/1. Coaching Value Sellers (MGR) 1 of 3/1. Coaching Value Sellers (MGR) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/1. Coaching Value Sellers (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/1. Coaching Value Sellers (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1jdTj-CQ7xGaVpZAhGXnDNGNznEWDyjWmxDnn8bXgRnw/edit"
    },
    "card_bullets": [
     "Rescuing **price-stalled deals** with **discounts**",
@@ -15758,7 +15787,7 @@
     "Immediate response: build the **ROI case** or approve a **discount**",
     "Not asking what **pain and impact** were actually uncovered"
    ],
-   "thumbnail": "thumbs/S-Q3B-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3B-MGR-1.jpg"
   },
   {
    "id": "S-Q3B-MGR-2",
@@ -15784,7 +15813,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Managers%20-%20Coaching%20Value%20Sellers/Session%202/Session%202%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Managers%20-%20Coaching%20Value%20Sellers/Session%202/LEADER%20GUIDE%20Session%202.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/2. Coaching Value Sellers (MGR) 2 of 3/2. Coaching Value Sellers (MGR) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/2. Coaching Value Sellers (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/2. Coaching Value Sellers (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1OVLGsmKfBDC1eIvQ7Nbz4trCAmmCe97yXMWORjKq3x0/edit"
    },
    "card_bullets": [
     "Accepting **pain claims** at **face value**",
@@ -15805,7 +15835,7 @@
     "Reported with real pain and commitment, taken at **face value**",
     "Falls apart later; the '**evidence**' was an **optimistic interpretation**"
    ],
-   "thumbnail": "thumbs/S-Q3B-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3B-MGR-2.jpg"
   },
   {
    "id": "S-Q3B-MGR-3",
@@ -15831,7 +15861,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Managers%20-%20Coaching%20Value%20Sellers/Session%203/Session%203%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Managers%20-%20Coaching%20Value%20Sellers/Session%203/Leaderguide%20Session%203.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/3. Coaching Value Sellers (MGR) 3 of 3/3. Coaching Value Sellers (MGR) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/3. Coaching Value Sellers (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (MGR) Coaching Value Sellers/3. Coaching Value Sellers (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1Wzj2DhiUPhzfJjYb0lOiEW0scZrxSwr_3oOeXuR97rU/edit"
    },
    "card_bullets": [
     "**Folding** under **price pressure**",
@@ -15854,7 +15885,7 @@
     "The **same fold** happens when the next buyer **pushes back**",
     "Fix only **talked about**, never **rehearsed under pressure**"
    ],
-   "thumbnail": "thumbs/S-Q3B-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3B-MGR-3.jpg"
   },
   {
    "id": "S-Q3C-MGR-1",
@@ -15880,7 +15911,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Managers%20-%20Coaching%20Expansion/Session%201/Session%201%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Managers%20-%20Coaching%20Expansion/Session%201/Session%201%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/1. Coaching Expansion (MGR) 1 of 3/1. Coaching Expansion (MGR) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/1. Coaching Expansion (MGR) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/1. Coaching Expansion (MGR) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1YdSb27knTapGU0cdOs2quHl6bepeNBrs50UXXDUj0pI/edit"
    },
    "card_bullets": [
     "Coaching time all on **new business**",
@@ -15902,7 +15934,7 @@
     "Growing an existing account the same amount gets **almost nothing**",
     "Then everyone wonders why **expansion** keeps getting **neglected**"
    ],
-   "thumbnail": "thumbs/S-Q3C-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3C-MGR-1.jpg"
   },
   {
    "id": "S-Q3C-MGR-2",
@@ -15928,7 +15960,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Managers%20-%20Coaching%20Expansion/Session%202/Session%202%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Managers%20-%20Coaching%20Expansion/Session%202/Leaderguide%20Session%202.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/2. Coaching Expansion (MGR) 2 of 3/2. Coaching Expansion (MGR) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/2. Coaching Expansion (MGR) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/2. Coaching Expansion (MGR) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1IROpadL07r19dUTbNMm393tLJvj78YMo1mcMgqIEPEc/edit"
    },
    "card_bullets": [
     "No structure for **expansion revenue**",
@@ -15951,7 +15984,7 @@
     "Returns **three completely different** answers",
     "Never been a **shared process** for it"
    ],
-   "thumbnail": "thumbs/S-Q3C-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3C-MGR-2.jpg"
   },
   {
    "id": "S-Q3C-MGR-3",
@@ -15974,7 +16007,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Managers%20-%20Coaching%20Expansion/Session%203/Session%203%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Managers%20-%20Coaching%20Expansion/Session%203/Leaderguide%20Session%203_Managers.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/3. Coaching Expansion (MGR) 3 of 3/3. Coaching Expansion (MGR) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/3. Coaching Expansion (MGR) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (MGR) Coaching Expansion/3. Coaching Expansion (MGR) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1ie2TFnV3yAiGKc4GVdr9L36CDSvN38OhjUA_xkGrcHE/edit"
    },
    "card_bullets": [
     "Coaching **account expansion**",
@@ -15983,7 +16017,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/S-Q3C-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3C-MGR-3.jpg"
   },
   {
    "id": "S-Q3D-MGR-1",
@@ -16008,7 +16042,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%201",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%201/Session%201_Manager_Coaching%20Qualification_Beautiful%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/1. Coaching Qualification (MGR) 1 of 4/1. Coaching Qualification (MGR) 1 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/1. Coaching Qualification (MGR) 1 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/1. Coaching Qualification (MGR) 1 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/14HRwp2nJx8NX6P6SA1qn3LEAd66LUAzdH8ebGVyn12k/edit"
    },
    "card_bullets": [
     "Advancing deals on **engagement signals**",
@@ -16032,7 +16067,7 @@
     "Until **price** or a **decision-maker** enters the picture",
     "Nobody asked about **pain, budget**, or decision along the way"
    ],
-   "thumbnail": "thumbs/S-Q3D-MGR-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-MGR-1.jpg"
   },
   {
    "id": "S-Q3D-MGR-2",
@@ -16058,7 +16093,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%202/Session%202_Manager_Coaching%20Qualification%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/2. Coaching Qualification (MGR) 2 of 4/2. Coaching Qualification (MGR) 2 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/2. Coaching Qualification (MGR) 2 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/2. Coaching Qualification (MGR) 2 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/1OXhPVs27g8wWugxy-ITds1OYV2719oTByi-N8dweMmw/edit"
    },
    "card_bullets": [
     "Stopping at **surface pain indicators**",
@@ -16081,7 +16117,7 @@
     "No real **urgency or ownership** behind it",
     "Deal **stalls** the second it's time to **decide**"
    ],
-   "thumbnail": "thumbs/S-Q3D-MGR-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-MGR-2.jpg"
   },
   {
    "id": "S-Q3D-MGR-3",
@@ -16105,7 +16141,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%203",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%203/Session%203_Manager_Coaching%20Qualification%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/3. Coaching Qualification (MGR) 3 of 4/3. Coaching Qualification (MGR) 3 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/3. Coaching Qualification (MGR) 3 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/3. Coaching Qualification (MGR) 3 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/1Cv1dY7ZIu1wJHfkryTJHYR4wfZpxMf4MtPWksJwo0L4/edit"
    },
    "card_bullets": [
     "**Budget** never qualified **early**",
@@ -16129,7 +16166,7 @@
     "Then **die** the second a **price shows up** on paper",
     "Nobody tied the problem's **cost** to the investment **early enough**"
    ],
-   "thumbnail": "thumbs/S-Q3D-MGR-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-MGR-3.jpg"
   },
   {
    "id": "S-Q3D-MGR-4",
@@ -16155,7 +16192,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%204/Session%204%20Coaching%20Qualification_Manager%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Managers%20-%20Coaching%20Qualification%20Copy/Session%204/Session%204%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/4. Coaching Qualification (MGR) 4 of 4/4. Coaching Qualification (MGR) 4 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/4. Coaching Qualification (MGR) 4 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (MGR) Coaching Qualification/4. Coaching Qualification (MGR) 4 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/1TJZ18KAKxe9PCAG7YQnROU2QO9Hrqbf67f53DhWPVH8/edit"
    },
    "card_bullets": [
     "Asking about **timelines** on **stalled deals**",
@@ -16178,7 +16216,7 @@
     "Reflex is asking about **timelines**",
     "Not coaching to find the **missing decision**"
    ],
-   "thumbnail": "thumbs/S-Q3D-MGR-4.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-MGR-4.jpg"
   },
   {
    "id": "S-Q1A-SLS-1",
@@ -16201,7 +16239,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OdOQCeyZtPM-I3BndZd/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%201",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%201/Session%201_Prospecting%20Sprint%20Beautiful%20AI%20Slides.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%201/Session%201_Prospecting%20Sprint%20Leader%20Guide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%201/Session%201_Prospecting%20Sprint%20Leader%20Guide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1ufwtIn5WmQCFUzPATxyHunguKvgCcL8Y3dj_uxatj04/edit"
    },
    "card_bullets": [
     "Hiding behind **comfort tools**",
@@ -16225,7 +16264,7 @@
     "Leaves **nothing** in the **pipeline** to show for it",
     "None of that was **actually prospecting**"
    ],
-   "thumbnail": "thumbs/S-Q1A-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1A-SLS-1.jpg"
   },
   {
    "id": "S-Q1A-SLS-2",
@@ -16249,7 +16288,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OdOS3C0TJnuurbf19CB/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%202/Session%202_Prospecting%20Sprint%20Beautiful%20AI%20Slides.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%202/Session%202_Prospecting%20Leader%20Guide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%202/Session%202_Prospecting%20Leader%20Guide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1O0Mfli6D_rFYKxDfJopLumQRGoRH88GjQpwSyL6ghok/edit"
    },
    "card_bullets": [
     "Prospecting only when the **pipeline's empty**",
@@ -16271,7 +16311,7 @@
     "A **big deal closes**, foot **off the gas** for two weeks",
     "Next month starts behind and stressed with an **empty pipeline**"
    ],
-   "thumbnail": "thumbs/S-Q1A-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1A-SLS-2.jpg"
   },
   {
    "id": "S-Q1A-SLS-3",
@@ -16294,7 +16334,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OdOT-SBVJpEY5pt5hl9/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%203",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%203/Session%203_Prospecting%20Sprint%20Beautiful%20AI%20Slides.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%203/Session%203_Prospecting%20Sprint%20Leader%20Guide.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20A%20-%20Sales%20-%20Prospecting%20that%20Works/Session%203/Session%203_Prospecting%20Sprint%20Leader%20Guide.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/1wCc9QiVXiecay5LlcbtNHwPcYLb7sw2FSN5KAFvZMWY/edit"
    },
    "card_bullets": [
     "**Generic messaging** to **wrong contacts**",
@@ -16318,7 +16359,7 @@
     "Comes for the **tenth time** this month",
     "Still no **prepared way** to diffuse it beforehand"
    ],
-   "thumbnail": "thumbs/S-Q1A-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1A-SLS-3.jpg"
   },
   {
    "id": "S-Q1B-SLS-1",
@@ -16368,7 +16409,7 @@
     "The money talk, the **pushy follow-up**, killing the **dead deal**",
     "Called **personal style** when it's really **avoidance**"
    ],
-   "thumbnail": "thumbs/S-Q1B-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1B-SLS-1.jpg"
   },
   {
    "id": "S-Q1B-SLS-2",
@@ -16393,7 +16434,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Sales%20-%20Breaking%20Comfort%20Zones/2.%20Session%202/Session%202%20-%20Breaking%20Your%20Comfort%20Zones.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20B%20-%20Sales%20-%20Breaking%20Comfort%20Zones/2.%20Session%202/Session%202%20Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (SLS) Breaking Comfort Zones/2. Breaking Comfort Zones (SLS) 2 of 3/2. Breaking Comfort Zones (SLS) 2 of 3 v2.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (SLS) Breaking Comfort Zones/2. Breaking Comfort Zones (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 B→Growth Through Discomfort/Q1 B (SLS) Breaking Comfort Zones/2. Breaking Comfort Zones (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1O42Aaf5cpgooNYvjxZa4rcprdRQEq7d0KGfJvKN01bc/edit"
    },
    "card_bullets": [
     "**Self-sabotage** right before a **breakthrough**",
@@ -16415,7 +16457,7 @@
     "Then immediately **disappearing from huddles** or **blowing up** the next deal",
     "Which ends up **wrecking the momentum**"
    ],
-   "thumbnail": "thumbs/S-Q1B-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1B-SLS-2.jpg"
   },
   {
    "id": "S-Q1B-SLS-3",
@@ -16463,7 +16505,7 @@
     "Two weeks later it's **right back**",
     "No specific, **non-negotiable behavior** ever committed to"
    ],
-   "thumbnail": "thumbs/S-Q1B-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1B-SLS-3.jpg"
   },
   {
    "id": "S-Q1C-SLS-1",
@@ -16489,7 +16531,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Sales%20Sustainable%20Success/Session%201/Session%201_Sales_Sustainable%20Success%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Sales%20Sustainable%20Success/Session%201/Leader%20Guide_Session%201.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/1. Sustainable Success (SLS) 1 of 3/1. Sustainable Success (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/1. Sustainable Success (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/1. Sustainable Success (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1ODuy2VFBzh4-GqpgcXNDNOonrupqwXwVSBWQtDv8kxE/edit"
    },
    "card_bullets": [
     "**Hot months** followed by **bleak ones**",
@@ -16511,7 +16554,7 @@
     "A **monster quarter**, then a surprise **dry spell**, no explanation why",
     "Never a **real plan**, just habits called one"
    ],
-   "thumbnail": "thumbs/S-Q1C-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1C-SLS-1.jpg"
   },
   {
    "id": "S-Q1C-SLS-2",
@@ -16539,7 +16582,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Sales%20Sustainable%20Success/Session%202/Session%202_Sales_Sustainable%20Success%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Sales%20Sustainable%20Success/Session%202/Leader%20Guide_Session%202.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/2. Sustainable Success (SLS) 2 of 3/2. Sustainable Success (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/2. Sustainable Success (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/2. Sustainable Success (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/15_wUzgi4fTpy-QSMRvCTHVKsNAxuFF_3Jc9su1abLUU/edit"
    },
    "card_bullets": [
     "One **bad call** derailing the **day**",
@@ -16562,7 +16606,7 @@
     "**Tone and confidence** tank for every call after",
     "Not **shaking it off** and staying in the **driver's seat**"
    ],
-   "thumbnail": "thumbs/S-Q1C-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1C-SLS-2.jpg"
   },
   {
    "id": "S-Q1C-SLS-3",
@@ -16589,7 +16633,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Sales%20Sustainable%20Success/Session%203/Session%203_Sales_Sustainable%20Success%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20C%20-%20Sales%20Sustainable%20Success/Session%203/Leader%20Guide_Session%203.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/3. Sustainable Success (SLS) 3 of 3/3. Sustainable Success (SLS) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/3. Sustainable Success (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 C→Sustainable Predictable Results/Q1 C (SLS) Sustainable Success/3. Sustainable Success (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1fb74lGgZYs6oCY-a56zjsu0DdcMw_W1Q6hJLW2YEu2g/edit"
    },
    "card_bullets": [
     "Losing **control** of the **sales process**",
@@ -16612,7 +16657,7 @@
     "Goes quiet **after pricing** or drags in **late-stage limbo**",
     "**Nobody** was **driving the process**"
    ],
-   "thumbnail": "thumbs/S-Q1C-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1C-SLS-3.jpg"
   },
   {
    "id": "S-Q1D-SLS-1",
@@ -16640,7 +16685,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Sales%20-%20Discovery%20Done%20Right/Session%201/Session%201_Sales_Discovery%20Done%20Right%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Sales%20-%20Discovery%20Done%20Right/Session%201/Session%201_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/1. Discovery Done Right (SLS) 1 of 3/1. Discovery Done Right (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/1. Discovery Done Right (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/1. Discovery Done Right (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1g2hkTFDVHAZhcSECEYL6gHYmCgzdk4ep0iRctShJMYU/edit"
    },
    "card_bullets": [
     "**Educating and correcting** during discovery",
@@ -16662,7 +16708,7 @@
     "Jumping in to **explain or correct** the prospect mid-discovery",
     "**Losing the conversation** before learning anything"
    ],
-   "thumbnail": "thumbs/S-Q1D-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q1D-SLS-1.jpg"
   },
   {
    "id": "S-Q1D-SLS-2",
@@ -16687,7 +16733,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Sales%20-%20Discovery%20Done%20Right/Session%202/Session%202_Sales_Discovery%20Done%20Right%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Sales%20-%20Discovery%20Done%20Right/Session%202/Session%202_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/2. Discovery Done Right (SLS) 2 of 3/2. Discovery Done Right (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/2. Discovery Done Right (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/2. Discovery Done Right (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1LwvF_BVtGaFaVP3c-R7cyDd_dXYk7zTN5xvK0zzA4WM/edit"
    },
    "card_bullets": [
     "Answering buyer questions **too fast**",
@@ -16707,7 +16754,7 @@
     "Discovery call **feels great**: every question got a **thorough answer**",
     "Buyer leaves with **no new urgency**; **nothing has changed**"
    ],
-   "thumbnail": "thumbs/S-Q1D-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q1D-SLS-2.jpg"
   },
   {
    "id": "S-Q1D-SLS-3",
@@ -16733,7 +16780,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Sales%20-%20Discovery%20Done%20Right/Session%203/Session%203_Sales_Discovery%20Done%20Right%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q1%20D%20-%20Sales%20-%20Discovery%20Done%20Right/Session%203/Session%203_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/3. Discovery Done Right (SLS) 3 of 3/3. Discovery Done Right (SLS) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/3. Discovery Done Right (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q1 D→Discovery/Q1 D (SLS) Discovery Done Right/3. Discovery Done Right (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1KKIkgFLjJySnA9TbfbgEiBfDGj_6NMoczb7ZnV8AzPQ/edit"
    },
    "card_bullets": [
     "Mistaking **interest** for **commitment**",
@@ -16756,7 +16804,7 @@
     "The deal **goes cold** anyway",
     "Interest was never tested for **real ownership**"
    ],
-   "thumbnail": "thumbs/S-Q1D-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q1D-SLS-3.jpg"
   },
   {
    "id": "S-Q2A-SLS-1",
@@ -16775,7 +16823,8 @@
    "links": {
     "beautiful_ai": "https://www.beautiful.ai/player/-Onwq0UmMa9IWPMdCGdp",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%201",
-    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%201/Session%201%20Deck.url"
+    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%201/Session%201%20Deck.url",
+    "google_slides": "https://docs.google.com/presentation/d/1uIOMRVmybNgHB7Y4q16dpFD9Kv6TOFtr9HsWMcFGcJA/edit"
    },
    "card_bullets": [
     "**Qualifying** opportunities **harder**",
@@ -16784,7 +16833,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/S-Q2A-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-SLS-1.jpg"
   },
   {
    "id": "S-Q2A-SLS-2",
@@ -16807,7 +16856,8 @@
    "links": {
     "beautiful_ai": "https://www.beautiful.ai/-OnwIJ9xSflQQF9lFs0k/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%202",
-    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%202/Session%202_Qualify%20Hard_Beautiful%20Deck.url"
+    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%202/Session%202_Qualify%20Hard_Beautiful%20Deck.url",
+    "google_slides": "https://docs.google.com/presentation/d/14dyZAt17KKI6VTgUTaM37IXttJE9RszbsDUhmYgsUcw/edit"
    },
    "card_bullets": [
     "Mistaking **surface problems** for **real pain**",
@@ -16830,7 +16880,7 @@
     "Then it **goes quiet** after the demo",
     "With **no clear explanation** why"
    ],
-   "thumbnail": "thumbs/S-Q2A-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-SLS-2.jpg"
   },
   {
    "id": "S-Q2A-SLS-3",
@@ -16851,7 +16901,8 @@
    "links": {
     "beautiful_ai": "https://www.beautiful.ai/-OnwIWjkM39N5k4iCcBu/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%203",
-    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%203/Session%203_Qualify%20Hard%20Deck.url"
+    "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%203/Session%203_Qualify%20Hard%20Deck.url",
+    "google_slides": "https://docs.google.com/presentation/d/1ckh610hh7f9n65HcDD9XUGzGU2yjZ-Pn42XKGpedtEc/edit"
    },
    "card_bullets": [
     "**Money raised** too early or too late",
@@ -16874,7 +16925,7 @@
     "Then **sticker shock** or a stalled deal blindsides the sale",
     "**Cost** never connected to the size of the **problem**"
    ],
-   "thumbnail": "thumbs/S-Q2A-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-SLS-3.jpg"
   },
   {
    "id": "S-Q2A-SLS-4",
@@ -16897,7 +16948,8 @@
     "beautiful_ai": "https://www.beautiful.ai/-OrOKm1WcQ12l5Ke4F3r/1",
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%204",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%204/Session%204_Qualify%20Hard%20Deck.url",
-    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%204/Leaderguide%20Session%204.pdf"
+    "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20A%20-%20Sales%20-%20Qualify%20Hard/Session%204/Leaderguide%20Session%204.pdf",
+    "google_slides": "https://docs.google.com/presentation/d/16Gjy05qulvMNIk9RDHBkjnw5hXVgna8_682uMPJ_LbE/edit"
    },
    "card_bullets": [
     "Treating **stalls** as **buyer bad faith**",
@@ -16921,7 +16973,7 @@
     "The **prospect** gets the blame instead",
     "Nobody helped the buyer build a **process for deciding**"
    ],
-   "thumbnail": "thumbs/S-Q2A-SLS-4.jpg"
+   "thumbnail": "thumbs v2/S-Q2A-SLS-4.jpg"
   },
   {
    "id": "S-Q2B-SLS-1",
@@ -16951,7 +17003,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Sales%20-%20Handling%20Objections/Session%201",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Sales%20-%20Handling%20Objections/Session%201/Session%201_Handling%20Objections.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/1. Handling Objections (SLS) 1 of 3/1. Handling Objections (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/1. Handling Objections (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/1. Handling Objections (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1nFCCxrxN4-j08EtPn2-vY_2XkHhmxmnN6hjLe0Ai_L4/edit"
    },
    "card_bullets": [
     "**Objections self-inflicted** earlier in the sale",
@@ -16974,7 +17027,7 @@
     "The **prospect gets blamed** for it",
     "Never seeing it was **set up earlier** in the call"
    ],
-   "thumbnail": "thumbs/S-Q2B-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2B-SLS-1.jpg"
   },
   {
    "id": "S-Q2B-SLS-2",
@@ -17006,7 +17059,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Sales%20-%20Handling%20Objections/Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Sales%20-%20Handling%20Objections/Session%202/Session%202_Handling%20Objections_Beautiful%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/2. Handling Objections (SLS) 2 of 3/2. Handling Objections (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/2. Handling Objections (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/2. Handling Objections (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/14Cvugqu8kGDowbKn4HK1WfIl3lflalFxbgpSUHWF7ew/edit"
    },
    "card_bullets": [
     "**One default move** for every objection",
@@ -17028,7 +17082,7 @@
     "The prospect **digs in harder**",
     "A **logical fix** used on an emotional objection, or vice versa"
    ],
-   "thumbnail": "thumbs/S-Q2B-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2B-SLS-2.jpg"
   },
   {
    "id": "S-Q2B-SLS-3",
@@ -17052,7 +17106,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Sales%20-%20Handling%20Objections/Session%203",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20B%20-%20Sales%20-%20Handling%20Objections/Session%203/Session%203_Handling%20Objections%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/3. Handling Objections (SLS) 3 of 3/3. Handling Objections (SLS) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/3. Handling Objections (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 B→Resistance & Objections/Q2 B (SLS) Handling Objections/3. Handling Objections (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1iNsj6TmEIM7xJUm_A-fBOT3xRcfdEfwj1kSOJcTQsbc/edit"
    },
    "card_bullets": [
     "**Reverting** to **old habits** under pressure",
@@ -17074,7 +17129,7 @@
     "**Objection tactics** from training go out the window",
     "**Old habits return** when a real prospect pushes back hard"
    ],
-   "thumbnail": "thumbs/S-Q2B-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2B-SLS-3.jpg"
   },
   {
    "id": "S-Q2C-SLS-1",
@@ -17100,7 +17155,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Sales%20-%20Prospecting%20That%20Works/Session%201/Session%201_Prospecting%20Sprint%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Sales%20-%20Prospecting%20That%20Works/Session%201/Session%201_Prospecting%20Sprint%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/1. Prospecting That Works (SLS) 1 of 3/1. Prospecting (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/1. Prospecting That Works (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/1. Prospecting That Works (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1ufwtIn5WmQCFUzPATxyHunguKvgCcL8Y3dj_uxatj04/edit"
    },
    "card_bullets": [
     "**Avoiding prospecting** altogether",
@@ -17124,7 +17180,7 @@
     "Nothing in the **pipeline** to show for it",
     "None of it was **actually prospecting**"
    ],
-   "thumbnail": "thumbs/S-Q2C-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2C-SLS-1.jpg"
   },
   {
    "id": "S-Q2C-SLS-2",
@@ -17151,7 +17207,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Sales%20-%20Prospecting%20That%20Works/Session%202/Session%202_Prospecting%20Sprint%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Sales%20-%20Prospecting%20That%20Works/Session%202/Session%202_Prospecting%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/2. Prospecting That Works (SLS) 2 of 3/2. Prospecting (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/2. Prospecting That Works (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/2. Prospecting That Works (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1O0Mfli6D_rFYKxDfJopLumQRGoRH88GjQpwSyL6ghok/edit"
    },
    "card_bullets": [
     "Pipeline swinging between **feast and famine**",
@@ -17174,7 +17231,7 @@
     "A **big deal closes**, foot comes off the gas for two weeks",
     "Next month brings **falling behind**, stress, and an **empty pipeline**"
    ],
-   "thumbnail": "thumbs/S-Q2C-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q2C-SLS-2.jpg"
   },
   {
    "id": "S-Q2C-SLS-3",
@@ -17200,7 +17257,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Sales%20-%20Prospecting%20That%20Works/Session%203/Session%203_Prospecting%20Sprint%20Beautiful%20AI%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20C%20-%20Sales%20-%20Prospecting%20That%20Works/Session%203/Session%203_Prospecting%20Sprint%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/3. Prospecting That Works (SLS) 3 of 3/3. Prospecting (SLS) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/3. Prospecting That Works (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 C→Prospecting/Q2 C (SLS) Prospecting That Works/3. Prospecting That Works (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1wCc9QiVXiecay5LlcbtNHwPcYLb7sw2FSN5KAFvZMWY/edit"
    },
    "card_bullets": [
     "**Generic messaging** to the **wrong contacts**",
@@ -17224,7 +17282,7 @@
     "It comes for the **tenth time** this month",
     "Still **no prepared way** to diffuse it beforehand"
    ],
-   "thumbnail": "thumbs/S-Q2C-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2C-SLS-3.jpg"
   },
   {
    "id": "S-Q2D-SLS-1",
@@ -17247,7 +17305,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Sales%20-%20Close%20Easy/Session%201/Session%201%20-%20Close%20Easier%20-%20Beautiful%20AI%20link.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Sales%20-%20Close%20Easy/Session%201/Session%201%20LEADERGUIDE.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/1. Close Easy (SLS) 1 of 3/1. Close Easier (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/1. Close Easy (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/1. Close Easy (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1NhzfFy_N_IoTy5fKSgRD26LCBag4D2yDbZ_x-KsJFCY/edit"
    },
    "card_bullets": [
     "**Closing** treated as a **final event**",
@@ -17269,7 +17328,7 @@
     "Deals reach the **finish line** but don't close",
     "Not the prospect's fault, but what **wasn't locked down** early"
    ],
-   "thumbnail": "thumbs/S-Q2D-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q2D-SLS-1.jpg"
   },
   {
    "id": "S-Q2D-SLS-2",
@@ -17292,7 +17351,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Sales%20-%20Close%20Easy/Session%202/Session%202%20-%20Close%20Easier%20-%20Beautiful%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Sales%20-%20Close%20Easy/Session%202/Session%202_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/2. Close Easy (SLS) 2 of 3/2. Close Easier (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/2. Close Easy (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/2. Close Easy (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1RU6h6RIe7hgqvnb7eyy4z2vUeI7Sp92tokSIdaGYVts/edit"
    },
    "card_bullets": [
     "**Ghosting** and **surprise decision-makers**",
@@ -17344,7 +17404,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Sales%20-%20Close%20Easy/Session%203/Session%203%20Beautiful%20Slides.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q2%20D%20-%20Sales%20-%20Close%20Easy/Session%203/Session%203%20Leader%20Guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/3. Close Easy (SLS) 3 of 3/3. Close Easier (SLS) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/3. Close Easy (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q2 D→Pipeline Management & Closing/Q2 D (SLS) Close Easy/3. Close Easy (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1K24Y_BaOabhEpstSeQGfp_SMx2yyvysOK3VjHUmyFN4/edit"
    },
    "card_bullets": [
     "Giving **permission to delay**",
@@ -17367,7 +17428,7 @@
     "Answer is just \"sure, **take your time**\"",
     "No **diagnosing** what's really stalling them"
    ],
-   "thumbnail": "thumbs/S-Q2D-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q2D-SLS-3.jpg"
   },
   {
    "id": "S-Q3A-SLS-1",
@@ -17393,7 +17454,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Sales%20-%20Social%20Selling/Session%201/Session%201%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Sales%20-%20Social%20Selling/Session%201/Digital%20Selling%20Session%201%20Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/1. Social Selling (SLS) 1 of 3/1. Social Selling 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/1. Social Selling (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/1. Social Selling (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1-Nz4Pul9HIFs0cjMzGc1E9gK_zhNzmoayllp1Eh-KwA/edit"
    },
    "card_bullets": [
     "**Inconsistent social selling**, no results",
@@ -17417,7 +17479,7 @@
     "Posts still get **no engagement**",
     "The intended audience was **never actually defined**"
    ],
-   "thumbnail": "thumbs/S-Q3A-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3A-SLS-1.jpg"
   },
   {
    "id": "S-Q3A-SLS-2",
@@ -17443,7 +17505,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Sales%20-%20Social%20Selling/Session%202/Session%202%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Sales%20-%20Social%20Selling/Session%202/Digital%20Selling%20Session%202_Leaderguide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/2. Social Selling (SLS) 2 of 3/2. Social Selling 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/2. Social Selling (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/2. Social Selling (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1vT4Gn8jMvEzqSJpAklDtZOVBRVYuiAp-Gn-uiVPxun4/edit"
    },
    "card_bullets": [
     "Posting **company news** buyers **ignore**",
@@ -17466,7 +17529,7 @@
     "Never booked a **single call**",
     "Content never built to **move a buyer** toward a conversation"
    ],
-   "thumbnail": "thumbs/S-Q3A-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3A-SLS-2.jpg"
   },
   {
    "id": "S-Q3A-SLS-3",
@@ -17493,7 +17556,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Sales%20-%20Social%20Selling/Session%203/Session%203%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20A%20-%20Sales%20-%20Social%20Selling/Session%203/Digital%20Selling%20Leader%20Guide%20Session%203.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/3. Social Selling (SLS) 3 of 3/3. Social Selling 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/3. Social Selling (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 A→Digital Sales Leadership/Q3 A (SLS) Social Selling/3. Social Selling (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1p9kJqzLlfguba22OSx6RM8Hhsw-ab-rAq8PxEWEmB7Q/edit"
    },
    "card_bullets": [
     "Avoiding **direct outreach** entirely",
@@ -17516,7 +17580,7 @@
     "But it strips out the **personalization**",
     "That's the **only reason** messages get responses"
    ],
-   "thumbnail": "thumbs/S-Q3A-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3A-SLS-3.jpg"
   },
   {
    "id": "S-Q3B-SLS-1",
@@ -17539,7 +17603,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Sales%20-%20Budgets%20and%20Value%20Selling/Session%201/Session%201%20Beautiful%20Slide%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Sales%20-%20Budgets%20and%20Value%20Selling/Session%201/Value%20Selling%20Session%201_Leader%20guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/1. Budgets & Value Selling (SLS) 1 of 3/1. Budgets & Value Selling (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/1. Budgets & Value Selling (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/1. Budgets & Value Selling (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1nB4W1s-yjhZ4O3TDwU9PZIoMCPP91N0Dtta44-UVo6U/edit"
    },
    "card_bullets": [
     "Abandoning **value selling** under **price pressure**",
@@ -17561,7 +17626,7 @@
     "**Panic** sets in, leading to justifying and discounting",
     "Instead of **building pain** first"
    ],
-   "thumbnail": "thumbs/S-Q3B-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3B-SLS-1.jpg"
   },
   {
    "id": "S-Q3B-SLS-2",
@@ -17584,7 +17649,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Sales%20-%20Budgets%20and%20Value%20Selling/Session%202/Session%202%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Sales%20-%20Budgets%20and%20Value%20Selling/Session%202/Value%20Selling%20Session%202%20Leader%20guide.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/2. Budgets & Value Selling (SLS) 2 of 3/2. Budgets & Value Selling (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/2. Budgets & Value Selling (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/2. Budgets & Value Selling (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1DY6Cs2tMahUXmCaj-9noeSzhCiK7AofDfFEff6AWrUA/edit"
    },
    "card_bullets": [
     "Advancing deals on **optimism**",
@@ -17606,7 +17672,7 @@
     "Based on a **strong relationship** and buyer enthusiasm",
     "Then **stalls**, since none of that was actual evidence"
    ],
-   "thumbnail": "thumbs/S-Q3B-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3B-SLS-2.jpg"
   },
   {
    "id": "S-Q3B-SLS-3",
@@ -17629,7 +17695,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Sales%20-%20Budgets%20and%20Value%20Selling/Session%203/Session%203%20deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20B%20-%20Sales%20-%20Budgets%20and%20Value%20Selling/Session%203/Leaderguide_Session%203.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/3. Budgets & Value Selling (SLS) 3 of 3/3. Budgets & Value Selling (SLS) 3 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/3. Budgets & Value Selling (SLS) 3 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 B→Budgets & Value Selling/Q3 B (SLS) Budgets and Value Selling/3. Budgets & Value Selling (SLS) 3 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1iT3JTjxaGi8Eja0IjPd1uEOiB2Dw0VGwIHdaPMWR0Gs/edit"
    },
    "card_bullets": [
     "**Caving on price** in live deals",
@@ -17652,7 +17719,7 @@
     "Real buyer says \"**you're 18% higher**\"",
     "Response folds into **justifying price** or discounting"
    ],
-   "thumbnail": "thumbs/S-Q3B-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3B-SLS-3.jpg"
   },
   {
    "id": "S-Q3C-SLS-1",
@@ -17678,7 +17745,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Sales%20-%20Account%20Expansion/Session%201/Session%201%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Sales%20-%20Account%20Expansion/Session%201/Session%201%20Leader%20Guide%20-%20Account%20Expansion.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (SLS) Account Expansion/1. Account Expansion (SLS) 1 of 3/1. Account Expansion (SLS) 1 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (SLS) Account Expansion/1. Account Expansion (SLS) 1 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (SLS) Account Expansion/1. Account Expansion (SLS) 1 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1OgADgCVtJoOXuY2P27qLcv8ECaKeGDVw8Iv2UB79PXQ/edit"
    },
    "card_bullets": [
     "Avoiding **expansion talks** with **happy clients**",
@@ -17701,7 +17769,7 @@
     "Is there **another problem** in the account worth solving?",
     "Held back by \"they've **already given us** a lot of business\""
    ],
-   "thumbnail": "thumbs/S-Q3C-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3C-SLS-1.jpg"
   },
   {
    "id": "S-Q3C-SLS-2",
@@ -17727,7 +17795,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Sales%20-%20Account%20Expansion/Session%202/Session%202%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20C%20-%20Sales%20-%20Account%20Expansion/Session%202/Leaderguide%20Session%202.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (SLS) Account Expansion/2. Account Expansion (SLS) 2 of 3/2. Account Expansion (SLS) 2 of 3.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (SLS) Account Expansion/2. Account Expansion (SLS) 2 of 3"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 C→Account Expansion/Q3 C (SLS) Account Expansion/2. Account Expansion (SLS) 2 of 3",
+    "google_slides": "https://docs.google.com/presentation/d/1u6VBqpoZDpc7v9zCn5VZiZMjtL72IOMbwUd1hhXKXZQ/edit"
    },
    "card_bullets": [
     "Picking **expansion targets** by **familiarity**",
@@ -17750,7 +17819,7 @@
     "Never tested whether the account is **actually secure**",
     "Or where **real additional value** might exist"
    ],
-   "thumbnail": "thumbs/S-Q3C-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3C-SLS-2.jpg"
   },
   {
    "id": "S-Q3C-SLS-3",
@@ -17802,7 +17871,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%201",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%201/Session%201%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/1. Qualify Hard (SLS) 1 of 4/1. Qualify Hard (SLS) 1 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/1. Qualify Hard (SLS) 1 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/1. Qualify Hard (SLS) 1 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/1uIOMRVmybNgHB7Y4q16dpFD9Kv6TOFtr9HsWMcFGcJA/edit"
    },
    "card_bullets": [
     "**Qualifying** opportunities **harder**",
@@ -17811,7 +17881,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/S-Q3D-SLS-1.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-SLS-1.jpg"
   },
   {
    "id": "S-Q3D-SLS-2",
@@ -17837,7 +17907,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%202",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%202/Session%202_Qualify%20Hard_Beautiful%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/2. Qualify Hard (SLS) 2 of 4/2. Qualify Hard (SLS) 2 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/2. Qualify Hard (SLS) 2 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/2. Qualify Hard (SLS) 2 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/14dyZAt17KKI6VTgUTaM37IXttJE9RszbsDUhmYgsUcw/edit"
    },
    "card_bullets": [
     "Mistaking **surface problems** for **real pain**",
@@ -17860,7 +17931,7 @@
     "Then it **goes quiet** after the demo",
     "With **no clear explanation** why"
    ],
-   "thumbnail": "thumbs/S-Q3D-SLS-2.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-SLS-2.jpg"
   },
   {
    "id": "S-Q3D-SLS-3",
@@ -17884,7 +17955,8 @@
     "sharepoint_folder": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%203",
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%203/Session%203_Qualify%20Hard%20Deck.url",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/3. Qualify Hard (SLS) 3 of 4/3. Qualify Hard (SLS) 3 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/3. Qualify Hard (SLS) 3 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/3. Qualify Hard (SLS) 3 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/1ckh610hh7f9n65HcDD9XUGzGU2yjZ-Pn42XKGpedtEc/edit"
    },
    "card_bullets": [
     "**Money raised** too early or too late",
@@ -17907,7 +17979,7 @@
     "Then **sticker shock** or a stalled deal blindsides the sale",
     "**Cost** never connected to the size of the **problem**"
    ],
-   "thumbnail": "thumbs/S-Q3D-SLS-3.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-SLS-3.jpg"
   },
   {
    "id": "S-Q3D-SLS-4",
@@ -17933,7 +18005,8 @@
     "sharepoint_deck": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%204/Session%204_Qualify%20Hard%20Deck.url",
     "leader_guide": "https://lushin.sharepoint.com/sites/EmAmandaCollabSite/Shared%20Documents/Q3%20D%20-%20Sales%20-%20Qualify%20Hard/Session%204/Leaderguide%20Session%204.pdf",
     "mac_deck": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/4. Qualify Hard (SLS) 4 of 4/4. Qualify Hard (SLS) 4 of 4.pptx",
-    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/4. Qualify Hard (SLS) 4 of 4"
+    "mac_folder": "/Users/danfaber/Documents/Training/Beautiful AI Decks 2026/Sprint Series/Q3 D→Qualification/Q3 D (SLS) Qualify Hard/4. Qualify Hard (SLS) 4 of 4",
+    "google_slides": "https://docs.google.com/presentation/d/16Gjy05qulvMNIk9RDHBkjnw5hXVgna8_682uMPJ_LbE/edit"
    },
    "card_bullets": [
     "Treating **stalls** as **buyer bad faith**",
@@ -17957,7 +18030,7 @@
     "The **prospect** gets the blame instead",
     "Nobody helped the buyer build a **process for deciding**"
    ],
-   "thumbnail": "thumbs/S-Q3D-SLS-4.jpg"
+   "thumbnail": "thumbs v2/S-Q3D-SLS-4.jpg"
   },
   {
    "id": "N-01",
@@ -18008,7 +18081,7 @@
     "**Over-explaining** or justifying the price kicks in",
     "**Talking too much** gives away information and control"
    ],
-   "thumbnail": "thumbs/N-01.jpg"
+   "thumbnail": "thumbs v2/N-01.jpg"
   },
   {
    "id": "N-02",
@@ -18058,7 +18131,7 @@
     "The **automatic response**: agree and wait",
     "Instead of recognizing the **power dynamic** and redirecting with a question"
    ],
-   "thumbnail": "thumbs/N-02.jpg"
+   "thumbnail": "thumbs v2/N-02.jpg"
   },
   {
    "id": "N-03",
@@ -18103,7 +18176,7 @@
     "Buyer still sees an **interchangeable vendor**",
     "Every interaction has secretly been **self-serving**"
    ],
-   "thumbnail": "thumbs/N-03.jpg"
+   "thumbnail": "thumbs v2/N-03.jpg"
   },
   {
    "id": "N-04",
@@ -18148,7 +18221,7 @@
     "Every capability and price gets pitched, but the **deal stalls**",
     "Buyer never acknowledged what happens if the **problem goes unsolved**"
    ],
-   "thumbnail": "thumbs/N-04.jpg"
+   "thumbnail": "thumbs v2/N-04.jpg"
   },
   {
    "id": "N-05",
@@ -18194,7 +18267,7 @@
     "Gets stuck with a **Dominant**, results-driven buyer",
     "Same as with a cautious, detail-driven **Critical Thinker**"
    ],
-   "thumbnail": "thumbs/N-05.jpg"
+   "thumbnail": "thumbs v2/N-05.jpg"
   },
   {
    "id": "N-06",
@@ -18244,7 +18317,7 @@
     "Instinct is to **defend or drop** the price",
     "Instead of **reversing the question** to uncover what's driving it"
    ],
-   "thumbnail": "thumbs/N-06.jpg"
+   "thumbnail": "thumbs v2/N-06.jpg"
   },
   {
    "id": "N-07",
@@ -18295,7 +18368,7 @@
     "No **pre-planned limit** on what to give up",
     "**Nothing gotten back** in return"
    ],
-   "thumbnail": "thumbs/N-07.jpg"
+   "thumbnail": "thumbs v2/N-07.jpg"
   },
   {
    "id": "N-08",
@@ -18345,7 +18418,7 @@
     "**Panic** leads to justifying or discounting",
     "Instead of calmly asking **what's driving** the comparison"
    ],
-   "thumbnail": "thumbs/N-08.jpg"
+   "thumbnail": "thumbs v2/N-08.jpg"
   },
   {
    "id": "N-09",
@@ -18396,7 +18469,7 @@
     "Like \"this includes **training**, right?\" at the last minute",
     "Assuming nobody will want to **reopen** a \"done\" deal"
    ],
-   "thumbnail": "thumbs/N-09.jpg"
+   "thumbnail": "thumbs v2/N-09.jpg"
   },
   {
    "id": "N-10",
@@ -18444,7 +18517,7 @@
     "Deal feels good but **goes quiet** at the finish line",
     "Talking to an **enthusiastic champion** who was never the decision-maker"
    ],
-   "thumbnail": "thumbs/N-10.jpg"
+   "thumbnail": "thumbs v2/N-10.jpg"
   },
   {
    "id": "N-11",
@@ -18475,7 +18548,7 @@
    "key_problem_bullets": [],
    "light_bulb_bullets": [],
    "scenario_bullets": [],
-   "thumbnail": "thumbs/N-11.jpg"
+   "thumbnail": "thumbs v2/N-11.jpg"
   },
   {
    "id": "N-00",
@@ -18548,7 +18621,7 @@
     "Team just **clocking in** and out at 4:30",
     "Doing the **bare minimum** to leave"
    ],
-   "thumbnail": "thumbs/UN-001.jpg"
+   "thumbnail": "thumbs v2/UN-001.jpg"
   },
   {
    "id": "UN-002",
@@ -18682,7 +18755,7 @@
     "**Welcomed everywhere**, still not winning a fair share",
     "Client sees a **friend**, not a trusted advisor"
    ],
-   "thumbnail": "thumbs/UN-004.jpg"
+   "thumbnail": "thumbs v2/UN-004.jpg"
   },
   {
    "id": "UN-005",
@@ -18769,7 +18842,7 @@
     "The claim is **no time** to prospect",
     "Calendar full of undisciplined **drop-in chats**, no clear outcome"
    ],
-   "thumbnail": "thumbs/UN-006.jpg"
+   "thumbnail": "thumbs v2/UN-006.jpg"
   },
   {
    "id": "UN-007",
@@ -18863,7 +18936,7 @@
     "An **escalation blindsides** the account",
     "Client's **first complaint** taken at face value"
    ],
-   "thumbnail": "thumbs/UN-008.jpg"
+   "thumbnail": "thumbs v2/UN-008.jpg"
   },
   {
    "id": "UN-009",
@@ -18949,7 +19022,7 @@
     "New clients **start strong** but go quiet fast",
     "**Nothing meaningful** happens in the first few weeks after signing"
    ],
-   "thumbnail": "thumbs/UN-010.jpg"
+   "thumbnail": "thumbs v2/UN-010.jpg"
   },
   {
    "id": "UN-011",
@@ -19036,7 +19109,7 @@
     "Spec and feature comparisons turn into a **price fight**",
     "Never connecting to what the purchase **actually means** to the buyer"
    ],
-   "thumbnail": "thumbs/UN-012.jpg"
+   "thumbnail": "thumbs v2/UN-012.jpg"
   },
   {
    "id": "UN-013",
@@ -19083,7 +19156,7 @@
     "Or \"they went with the competitor **on price**\"",
     "No **go-to question** to work the situation backward"
    ],
-   "thumbnail": "thumbs/UN-013.jpg"
+   "thumbnail": "thumbs v2/UN-013.jpg"
   },
   {
    "id": "UN-014",
@@ -19203,7 +19276,7 @@
     "Culture mistaken for the **poster** on the wall",
     "Real culture is **behavior tolerated** from top and bottom performers"
    ],
-   "thumbnail": "thumbs/UN-016.jpg"
+   "thumbnail": "thumbs v2/UN-016.jpg"
   },
   {
    "id": "UN-017",
@@ -19354,7 +19427,7 @@
     "**Bad pipeline**, distraction, unrealistic or non-mandatory goal",
     "**Which specific reason** is to blame never identified"
    ],
-   "thumbnail": "thumbs/UN-020.jpg"
+   "thumbnail": "thumbs v2/UN-020.jpg"
   },
   {
    "id": "UN-021",
@@ -19558,7 +19631,7 @@
     "Direct report written off as the **\"problem child\"**",
     "Real gap: not knowing what drives, scares, frustrates that **DISC style**"
    ],
-   "thumbnail": "thumbs/UN-025.jpg"
+   "thumbnail": "thumbs v2/UN-025.jpg"
   },
   {
    "id": "UN-026",
@@ -19604,7 +19677,7 @@
     "**\"We do Sandler,\"** yet deals still stall",
     "Pinpoints which step is skipped or only **done halfway**"
    ],
-   "thumbnail": "thumbs/UN-026.jpg"
+   "thumbnail": "thumbs v2/UN-026.jpg"
   },
   {
    "id": "UN-027",
@@ -19764,7 +19837,7 @@
     "Driven by **fear** of hearing no",
     "A **fast no** often protects the deal, and you, better than a slow maybe"
    ],
-   "thumbnail": "thumbs/UN-030.jpg"
+   "thumbnail": "thumbs v2/UN-030.jpg"
   },
   {
    "id": "UN-031",
@@ -19946,7 +20019,7 @@
     "**Product features** come out the moment a prospect shows interest",
     "Instead of questions that let the prospect **sell themselves**"
    ],
-   "thumbnail": "thumbs/UN-034.jpg"
+   "thumbnail": "thumbs v2/UN-034.jpg"
   },
   {
    "id": "UN-035",
@@ -19995,7 +20068,7 @@
     "**Personal clarity** was never nailed down",
     "No **real next step** was ever forced"
    ],
-   "thumbnail": "thumbs/UN-035.jpg"
+   "thumbnail": "thumbs v2/UN-035.jpg"
   },
   {
    "id": "UN-036",
@@ -20040,7 +20113,7 @@
     "The **same feedback style** goes to every direct report",
     "Why it lands great with one and **shuts another down** is a mystery"
    ],
-   "thumbnail": "thumbs/UN-036.jpg"
+   "thumbnail": "thumbs v2/UN-036.jpg"
   },
   {
    "id": "UN-037",
@@ -20089,7 +20162,7 @@
     "The **hard conversation** gets avoided",
     "A small, fixable issue **becomes a bomb** that damages the relationship"
    ],
-   "thumbnail": "thumbs/UN-037.jpg"
+   "thumbnail": "thumbs v2/UN-037.jpg"
   },
   {
    "id": "UN-038",
@@ -20135,7 +20208,7 @@
     "Prospect's 'things are pretty good as they are' taken at **face value**",
     "Then **ghosting**, because it was never tested whether that was true"
    ],
-   "thumbnail": "thumbs/UN-038.jpg"
+   "thumbnail": "thumbs v2/UN-038.jpg"
   },
   {
    "id": "UN-039",
@@ -20183,7 +20256,7 @@
     "Existing client treated as **'safe'**, prospecting inside it stops",
     "**Revenue left** on the table until a competitor picks it up"
    ],
-   "thumbnail": "thumbs/UN-039.jpg"
+   "thumbnail": "thumbs v2/UN-039.jpg"
   },
   {
    "id": "UN-040",
@@ -20231,7 +20304,7 @@
     "**New logos** keep getting chased",
     "Current clients quietly hand **growth, cross-sell**, referrals to another provider"
    ],
-   "thumbnail": "thumbs/UN-040.jpg"
+   "thumbnail": "thumbs v2/UN-040.jpg"
   },
   {
    "id": "UN-041",
@@ -20328,7 +20401,7 @@
     "Team **unintentionally trained** to bring everything back up",
     "Instead of **solving it** themselves"
    ],
-   "thumbnail": "thumbs/UN-042.jpg"
+   "thumbnail": "thumbs v2/UN-042.jpg"
   },
   {
    "id": "UN-043",
@@ -20376,7 +20449,7 @@
     "Project management keeps getting **blindsided**",
     "Every handoff becomes a **tug-of-war**, not a clean transition"
    ],
-   "thumbnail": "thumbs/UN-043.jpg"
+   "thumbnail": "thumbs v2/UN-043.jpg"
   },
   {
    "id": "UN-044",
@@ -20456,7 +20529,7 @@
     "**Forecasting** is unreliable with pipelines full of stalled deals",
     "Nobody tracks exactly where prospects **get stuck**"
    ],
-   "thumbnail": "thumbs/UN-045.jpg"
+   "thumbnail": "thumbs v2/UN-045.jpg"
   },
   {
    "id": "UN-046",
@@ -20500,7 +20573,7 @@
     "Coaching keeps defaulting to **telling** what to do",
     "Instead of **real roleplays** that expose exactly where the process breaks"
    ],
-   "thumbnail": "thumbs/UN-046.jpg"
+   "thumbnail": "thumbs v2/UN-046.jpg"
   },
   {
    "id": "UN-047",
@@ -20545,7 +20618,7 @@
     "Things only run smoothly with **personal involvement** from the top",
     "The blindspot creating that **dependency** has never been named"
    ],
-   "thumbnail": "thumbs/UN-047.jpg"
+   "thumbnail": "thumbs v2/UN-047.jpg"
   },
   {
    "id": "UN-048",
@@ -20633,7 +20706,7 @@
     "Same feedback repeated, but **behavior doesn't change**",
     "The **underlying belief** driving it is never coached out"
    ],
-   "thumbnail": "thumbs/UN-049.jpg"
+   "thumbnail": "thumbs v2/UN-049.jpg"
   },
   {
    "id": "UN-050",
@@ -20759,7 +20832,7 @@
     "Sales team slowly **reverts** to old habits",
     "With full support of **leadership's inattention**"
    ],
-   "thumbnail": "thumbs/UN-052.jpg"
+   "thumbnail": "thumbs v2/UN-052.jpg"
   },
   {
    "id": "UN-053",
@@ -20847,7 +20920,7 @@
     "Goals get **written down** every year",
     "**Week-to-week behavior** never reflects them"
    ],
-   "thumbnail": "thumbs/UN-054.jpg"
+   "thumbnail": "thumbs v2/UN-054.jpg"
   },
   {
    "id": "UN-055",
@@ -20894,7 +20967,7 @@
     "**Holding onto tasks** the team could handle",
     "Out of **distrust** that anyone else will do them as well"
    ],
-   "thumbnail": "thumbs/UN-055.jpg"
+   "thumbnail": "thumbs v2/UN-055.jpg"
   },
   {
    "id": "UN-056",
@@ -21072,7 +21145,7 @@
     "Price and terms **cave** the moment a prospect pushes back",
     "Negotiation never seen as an **unfinished sale**"
    ],
-   "thumbnail": "thumbs/UN-059.jpg"
+   "thumbnail": "thumbs v2/UN-059.jpg"
   },
   {
    "id": "UN-060",
@@ -21206,7 +21279,7 @@
     "A **new process** rolls out, everyone nods along",
     "Within weeks the **remote team** quietly reverts to the old way"
    ],
-   "thumbnail": "thumbs/UN-062.jpg"
+   "thumbnail": "thumbs v2/UN-062.jpg"
   },
   {
    "id": "UN-063",
@@ -21303,7 +21376,7 @@
     "The same **price objection** keeps coming up over and over",
     "And the **logical rebuttals** never land"
    ],
-   "thumbnail": "thumbs/UN-064.jpg"
+   "thumbnail": "thumbs v2/UN-064.jpg"
   },
   {
    "id": "UN-065",
@@ -21350,7 +21423,7 @@
     "Prospects **verbally agree** to move forward",
     "Then **go dark** or no-show before the contract is signed"
    ],
-   "thumbnail": "thumbs/UN-065.jpg"
+   "thumbnail": "thumbs v2/UN-065.jpg"
   },
   {
    "id": "UN-066",
@@ -21440,7 +21513,7 @@
     "Plenty of questions asked, but **nothing new** uncovered",
     "Questions are **compound, leading**, or generic"
    ],
-   "thumbnail": "thumbs/UN-067.jpg"
+   "thumbnail": "thumbs v2/UN-067.jpg"
   },
   {
    "id": "UN-068",
@@ -21534,7 +21607,7 @@
     "Hiring and onboarding happen, but **ramp-up is inconsistent**",
     "No **competency framework** guiding interviews, job ads, or coaching"
    ],
-   "thumbnail": "thumbs/UN-069.jpg"
+   "thumbnail": "thumbs v2/UN-069.jpg"
   },
   {
    "id": "UN-070",
@@ -21582,7 +21655,7 @@
     "LinkedIn messages get likes and **no replies**",
     "**Online activity** never becomes conversations or referrals"
    ],
-   "thumbnail": "thumbs/UN-070.jpg"
+   "thumbnail": "thumbs v2/UN-070.jpg"
   },
   {
    "id": "UN-071",
@@ -21672,7 +21745,7 @@
     "But **daily behavior** doesn't match them",
     "No journal, no accountability partner, **no real commitment**"
    ],
-   "thumbnail": "thumbs/UN-072.jpg"
+   "thumbnail": "thumbs v2/UN-072.jpg"
   },
   {
    "id": "UN-073",
@@ -21717,7 +21790,7 @@
     "Prospects go quiet or **push back**",
     "When it starts sounding like **typical sales pressure** to \"get started\""
    ],
-   "thumbnail": "thumbs/UN-073.jpg"
+   "thumbnail": "thumbs v2/UN-073.jpg"
   },
   {
    "id": "UN-074",
@@ -21761,7 +21834,7 @@
     "Prospects **shut down** the moment the pitch turns",
     "Into a typical **hard push** for a \"yes\""
    ],
-   "thumbnail": "thumbs/UN-074.jpg"
+   "thumbnail": "thumbs v2/UN-074.jpg"
   },
   {
    "id": "UN-075",
@@ -21854,7 +21927,7 @@
     "Direct **qualifying questions** never asked",
     "They'd have **disqualified it** in week one"
    ],
-   "thumbnail": "thumbs/UN-076.jpg"
+   "thumbnail": "thumbs v2/UN-076.jpg"
   },
   {
    "id": "UN-077",
@@ -21898,7 +21971,7 @@
     "The same **handful of questions** keep coming back up the chain",
     "What was learned isn't **applied** in the field"
    ],
-   "thumbnail": "thumbs/UN-077.jpg"
+   "thumbnail": "thumbs v2/UN-077.jpg"
   },
   {
    "id": "UN-078",
@@ -21951,7 +22024,7 @@
     "**Ramp-up takes forever** with no written playbook",
     "Everyone gets coached on something **slightly different**"
    ],
-   "thumbnail": "thumbs/UN-078.jpg"
+   "thumbnail": "thumbs v2/UN-078.jpg"
   },
   {
    "id": "UN-079",
@@ -21995,7 +22068,7 @@
     "Ending up **negotiating against yourself**",
     "Because you **need the deal** more than the prospect does"
    ],
-   "thumbnail": "thumbs/UN-079.jpg"
+   "thumbnail": "thumbs v2/UN-079.jpg"
   }
  ],
  "sprint_programs": [
